@@ -1,0 +1,55 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<link href="style.css" rel="stylesheet" media="all" type="text/css" />
+<link href="../style.css" rel="stylesheet" type="text/css" />
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+<div id="Container">
+  <div id="Header">
+            	<div id="logo">
+                </div>
+                <div id="text1">
+                	<h1> BIOSSES : Biomedical Semantic Similarity Estimation System</h1>
+                </div>
+            </div>
+        	<!-- TemplateBeginEditable name="EditRegion3" -->
+        	<div id="Content1">
+        	  <p style="text-decoration:underline">Method:</p>
+        	  <select>
+        	    <option value="1">Combined Ontology Method (Using WordNet and UMLS pathmeasure)</option>
+        	    <option value="2">Qaram Similarity (Lexical Similarity)</option>
+        	    <option value="3">Paragraph Vector (Distributional Semantic Model)</option>
+        	    <option value="4">Supervised Approach</option>
+      	    </select>
+        	  <textarea name="Box1" cols="20" rows="15" id="Box11"  dir="ltr">#Enter your first sentence</textarea>
+        	  <textarea name="Box3" cols="20" rows="15" id="Box13"  dir="ltr">#Enter your second sentence</textarea>
+        	  <input name="Button" type="button" value="Calculate" />
+        	  <textarea name="Box2" cols="10" rows="1" id="Box12" dir="ltr"></textarea>
+      	  </div>
+            <div id="Content2">
+              <div id="navigation">
+                <ul>
+                  <li><a class="active" href="../About.html">About</a></li>
+                  <li><a href="../DataSet.html">Data Set</a></li>
+                  <li><a href="../SourceCode.html">Source Code</a></li>
+                  
+                </ul>
+              </div>
+               <p> &emsp;BIOSSES calculates semantic similarity score between sentences. It has been implemented and adopted &emsp;specifically for biomedical domain. </p>
+                <p> &emsp;Best performing systems in the thesis study entitled "      "</p>
+                <p>&emsp; For detail explonation, please read :</p>
+               &emsp; <a href="index.html"  target="_blank">->Thesis Link</a>
+                <p>&emsp;For citing this study, please use:</p>
+              
+            </div>
+        	<!-- TemplateEndEditable --></div>
+</body>
+</html>

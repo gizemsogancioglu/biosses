@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/Template.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <!-- InstanceBeginEditable name="doctitle" -->
+    <title>Bio-SSES Online Demo</title>
+    <link href="style.css" rel="stylesheet" media="all" type="text/css" />
+    <link href="style.css" rel="stylesheet" type="text/css" />
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="head" -->
+    <!-- InstanceEndEditable -->
+</head>
+
+<body>
+<div id="Container">
+    <div id="Header">
+        <div id="logo">
+        </div>
+        <div id="text1">
+            <h1> BIOSSES : Biomedical Semantic Similarity Estimation System</h1>
+        </div>
+    </div>
+    <!-- InstanceBeginEditable name="EditRegion3" -->
+    <div id="Content1">
+        <p style="text-decoration:underline">Method:</p>
+        <select id="method">
+            <option value="1" > WordNet Similarity (WS4J-Path)</option>
+            <option value="2"> UMLS Similarity (Path) </option>
+            <option value="3" > Combined Ontology Method (WordNet-UMLS) </option>
+            <option value="4"> Qgram Similarity (Lexical Similarity) </option>
+            <option value="5"> Paragraph Vector (Distributional Semantic Model) </option>
+            <option value="6"> Supervised Approach </option>
+        </select>
+        <textarea name="sentence1" cols="20" rows="15" id="s1"  dir="ltr">#Enter your first sentence</textarea>
+        <textarea name="sentence2" cols="20" rows="15" id="s2"  dir="ltr">#Enter your second sentence</textarea>
+        <input name="Button" type="button" value="Calculate" onclick="sendCustomerSentencesToServerSide()"/>
+        <textarea name="result" cols="10" rows="1" id="result" dir="ltr"></textarea>
+    </div>
+    <div id="Content2">
+              <div id="navigation">
+                <ul>
+                  <li><a class="active" href="About.html">About</a></li>
+                  <li><a class="active" href="DataSet.html">Data Set</a></li>
+                  <li><a class="active" href="SourceCode.html">Source Code</a></li>
+                </ul>
+              </div>
+              
+              <p>&emsp;Project Source Code is available in: 
+             <a href="https://bitbucket.org/gizemsogancioglu/sses/
+"  target="_blank">BIOSSES Bitbucket Page</a>  </p>
+				
+            </div>
+        	<!-- InstanceEndEditable --></div>
+<script src="callback.js"></script>
+</body>\
+<!-- InstanceEnd -->
+</html>

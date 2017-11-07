@@ -1,0 +1,118 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/Template.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Bio-SSES Online Demo</title>
+<link href="style.css" rel="stylesheet" media="all" type="text/css" />
+<link href="style.css" rel="stylesheet" type="text/css" />
+<!-- InstanceEndEditable -->
+<!-- InstanceBeginEditable name="head" -->
+<!-- InstanceEndEditable -->
+</head>
+
+<body>
+<div id="Container">
+    <div id="Header">
+        <div id="logo">
+        </div>
+        <div id="text1">
+            <h1> BIOSSES : Biomedical Semantic Similarity Estimation System</h1>
+        </div>
+    </div>
+    <!-- InstanceBeginEditable name="EditRegion3" -->
+    <div id="Content1">
+        <p style="text-decoration:underline">Method:</p>
+        <select id="method">
+            <option value="1" > WordNet Similarity (WS4J-Path)</option>
+            <option value="2"> UMLS Similarity (Path) </option>
+            <option value="3" > Combined Ontology Method (WordNet-UMLS) </option>
+            <option value="4"> Qgram Similarity (Lexical Similarity) </option>
+            <option value="5"> Paragraph Vector (Distributional Semantic Model) </option>
+            <option value="6"> Supervised Approach </option>
+        </select>
+        <textarea name="sentence1" cols="20" rows="15" id="s1"  dir="ltr">#Enter your first sentence</textarea>
+        <textarea name="sentence2" cols="20" rows="15" id="s2"  dir="ltr">#Enter your second sentence</textarea>
+        <input name="Button" type="button" value="Calculate" onclick="sendCustomerSentencesToServerSide()"/>
+        <textarea name="result" cols="10" rows="1" id="result" dir="ltr"></textarea>
+    </div>
+            <div id="Content2">
+              <div id="navigation">
+                <ul>
+                  <li><a class="active" href="About.html">About</a></li>
+                  <li><a class="active" href="DataSet.html">Data Set</a></li>
+                  <li><a class="active" href="SourceCode.html">Source Code</a></li>
+                </ul>
+                
+              </div>
+			  <p class="indented">The BIOSSES data set comprises total 100 sentence pairs all of which were
+				selected from the <a href="https://tac.nist.gov/2014/BiomedSumm/" target="_blank"> "TAC2 Biomedical Summarization Track Training Data Set" </a>. </p>
+			  <p class= "indented">	You can download the data set and annotator scores from here: <a href="Downloads/BIOSSES-Dataset.rar" download>  BIOSSES Data Set </a>. </p>
+			  <p class="indented"> The sentence pairs were evaluated by five different human experts that
+				judged their similarity and gave scores in a range [0-4]. Our guideline was prepared based on SemEval 2012 Task 6 Guideline. </p>
+				
+				
+				<p class="indented">Table below illustrates sample sentences with their corresponding similarity scores according to our guideline.</p>
+             
+          
+
+			 <style type="text/css">
+			.tg  {border-collapse:collapse;border-spacing:5;border-color:#ccc;}
+			.tg td{font-family:Arial, sans-serif;font-size:11px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#ccc;color:#333;background-color:#fff;}
+			.tg th{font-family:Arial, sans-serif;font-size:11px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#ccc;color:#333;background-color:#f0f0f0;}
+			.tg .tg-e3zv{font-weight:bold}
+			.tg .tg-yw4l{vertical-align:top}
+			.tg .tg-25al{font-size:10px;vertical-align:top}
+			 .indented { padding-left: 10pt; padding-right: 5pt; } 
+			</style>
+			<table class="tg" style="undefined;table-layout: fixed; width: 600px" align="center">
+			<colgroup>
+			<col style="width: 210.2px">
+			<col style="width: 210.2px">
+			<col style="width: 150.2px">
+			<col style="width: 50.2px">
+			</colgroup>
+			  <tr>
+				<th class="tg-e3zv">SENTENCE 1</th>
+				<th class="tg-e3zv">SENTENCE 2</th>
+				<th class="tg-e3zv">COMMENT</th>
+				<th class="tg-e3zv">SCORE</th>
+			  </tr>
+			  <tr>
+				<td class="tg-031e">Here we show that both C/EBPα  and NFI-A bind the region responsible for miR-223 upregulation upon RA treatment.</td>
+				<td class="tg-031e">Isoleucine could not interact with ligand fragment 44 (LF44),which contains amino group.</td>
+				<th class="tg-031e">The two sentences are on different topics.</td>
+				<th class="tg-031e">0</td>
+			  </tr>
+			  <tr>
+				<td class="tg-031e">Membrane proteins are proteins  that interact with biological membranes.</td>
+				<td class="tg-031e">Previous studies have demonstrated that membrane proteins are implicated in many diseases because they are positioned at the apex of signaling pathways that regulate cellular processes.</td>
+				<th class="tg-031e">The two sentences are not equivalent, but are on the same topic.</td>
+				<th class="tg-031e">1</td>
+			  </tr>
+			  <tr>
+				<td class="tg-031e">This article discusses the current data on using anti HER2 therapies  to treat CNS metastasis as well as the newer anti-HER2 agents.</td>
+				<td class="tg-031e">Breast cancers with HER2 amplification have a higher risk of CNS metastasis and poorer prognosis.</td>
+				<th class="tg-031e">The two sentences are not equivalent, but share some details.</td>
+				<th class="tg-031e">2</td>
+			  </tr>
+			  <tr>
+				<td class="tg-yw4l">We were able to confirm that the cancer tissues had reduced expression  of miR-126 and miR-424,and increased expression of miR-15b, miR-16,miR-146a, miR-155, and miR-223.</td>
+				<td class="tg-yw4l">A recent study showed that the expression of miR-126 and miR424 had reduced by the cancer tissues.</td>
+				<th class="tg-yw4l">The two sentences are roughly equivalent, but some important information differs/missing.</td>
+				<th class="tg-yw4l">3</td>
+			  </tr>
+			  <tr>
+				<td class="tg-yw4l">Hydrolysis of &beta;-lactam antibiotics by &beta;-lactamases is the most common mechanism of resistance for this class of antibacterial agents in clinically important Gram-negative bacteria.</td>
+				<td class="tg-yw4l">In Gram-negative organisms,  the most common &beta;-lactam  resistance mechanism involves &beta;-lactamase mediated hydrolysis resulting in subsequent inactivation of the antibiotic.</td>
+				<th class="tg-yw4l">The two sentences are completely or mostly equivalent, as they mean the same thing.</td>
+				<th class="tg-yw4l">4</td>
+			  </tr>
+			</table>
+              
+            </div>
+        	<!-- InstanceEndEditable --></div>
+
+<script src="callback.js"></script>
+</body>
+</html>

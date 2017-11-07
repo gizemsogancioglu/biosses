@@ -1,0 +1,3190 @@
+IDH2 Mutation-Contribute -1.0
+Pathway-Reported -1.0
+Phosphorylation-THREONINE 0.1111
+Drive-Reported -1.0
+Growth arrest-TERM -1.0
+Endodermal-Transcript -1.0
+Identified-HEPATOCELLULAR CARCINOMA -1.0
+Oct-4-Murine -1.0
+Occur-Genomic -1.0
+Block-LEAD -1.0
+Detected-Maturation -1.0
+Proteasome-Responsible -1.0
+caspase activity-Show -1.0
+IDH-Enzymatic Activity -1.0
+Chips-DATA SET -1.0
+GATA2-Ionising radiation -1.0
+Drug Resistance-Tumors 0.1429
+TET2-IDH1 Mutation -1.0
+ABT-737-derivatives -1.0
+hTERT-Cell Growth -1.0
+TREAT-Permit -1.0
+-- Leukemia-IRS-1 0.0
+Proteolysis-Rodent 0.0833
+Cancer-telomerase activity -1.0
+Interest-bind -1.0
+Activated-Cultured Cells -1.0
+IL1-Anaphase Promoting Complex -1.0
+RAS-TERM -1.0
+Human-Transfection 0.0588
+Selection-neoplastic transformation -1.0
+Pancreatic Cancer-Stimulated -1.0
+Homologous Sequences-Reported -1.0
+20%-Drive -1.0
+Flow-GATA2 -1.0
+Process-TUMORIGENICITY -1.0
+studies-DATA SET -1.0
+Cells-Normal cell division -1.0
+Examined-Tumors -1.0
+Embryonal Carcinoma Cell-Embryoid Bodies 0.3333
+LEAD-Enhance -1.0
+Thought-EVENTS -1.0
+Catalytic-IDH2 -1.0
+Cyclin-D1-Mammalian Cell -1.0
+Aurora-A kinase-LATS2 -1.0
+Lanugo-ACUTE MYELOGENOUS LEUKEMIA -1.0
+LATS2-LATS1 -1.0
+MICROARRAY-VARIOUS -1.0
+Mutant-Library -1.0
+Pitta-MIR-21 -1.0
+studies-cells differentiation -1.0
+Breast Cancer-Head 0.2
+KRAS-inhibitors -1.0
+Cyclin-D1-degradation of cyclin -1.0
+Alone-Advance -1.0
+Selected-Myelopoiesis -1.0
+Mutant-STANDING -1.0
+ABT-737-Regression -1.0
+Human-Thought -1.0
+RAS Oncogene-Responsible -1.0
+TAK1-Pathway -1.0
+ANALYSIS-Embryonic Stem Cells 0.1111
+GATA2-Enhance -1.0
+Human-Gene Mutation -1.0
+Phosphorylation-degradation of cyclin -1.0
+FUNCTIONS OF REPRODUCTION-Degraded -1.0
+Show-Drive -1.0
+-- Leukemia-Tumors 0.0
+Proliferative-Stimulated -1.0
+Kinase-Consideration -1.0
+Reported-LATS -1.0
+Cyclin-D1-Reported -1.0
+Myeloid Differentiation-RNAi -1.0
+Account #-AS gene 0.0
+Detected-CDK5RAP2 -1.0
+AN-MDM2 -1.0
+Study-Granulopoiesis -1.0
+Bcl-2-Reported -1.0
+Cyclin-Dependent Kinases-Senescence -1.0
+PPP-Synthetic -1.0
+Embryonal Carcinoma Cell-Embryonic Stem Cells 0.5
+Process-Phenotype -1.0
+Tumor cells-Cell metabolism -1.0
+Endodermal-POU5F1 -1.0
+Mouse, NOS-Enhance -1.0
+Mutant-depend -1.0
+KRAS-look -1.0
+-- Leukemia-Show 0.0
+Development-Phenotype -1.0
+Activated-Homologous -1.0
+TET2-shRNA -1.0
+TET2-Differentiation -1.0
+pRB-Thought -1.0
+Catalytic-Promoter -1.0
+Activated-Ras proteins -1.0
+Ectodermal-Transcript -1.0
+Entry-Cell Lines -1.0
+Production-Lead 2+ 0.0
+Immortalized-Cell metabolism -1.0
+virus infection-caspase activity -1.0
+Cancer-Lethal -1.0
+Phosphorylation-Ubiquitination 0.2
+GATA2-Defined -1.0
+Regulation-Maturation -1.0
+Progression-Homolog -1.0
+DEATH-Death Receptors 0.0909
+Tumors-ENZYMES 0.1667
+Papillary Carcinoma of the Thyroid-LATS2 -1.0
+NIH 3T3 Cells-Cellular Stress Response -1.0
+Phosphorylation-Study -1.0
+Oncogene-Suppressor -1.0
+Mouse, NOS-Embryonic Stem Cells -1.0
+KRAS-Carrying -1.0
+LEAD-bind -1.0
+Differentiation-Embryonic Stem Cells -1.0
+Tumor regression-RAS -1.0
+Bcl-2-apoptotic cell death -1.0
+LATS2-Interphase -1.0
+TREAT-Tumor cells -1.0
+Promote-LEAD -1.0
+P53-Show -1.0
+CERVICAL CANCER-metastasis 0.25
+FUNCTIONS OF REPRODUCTION-PROTEIN -1.0
+IDH2 Gene-Redundant -1.0
+TAK1-Mutation -1.0
+Tumor cells-Researchers -1.0
+Process-EVENTS -1.0
+Mouse, NOS-VARIOUS -1.0
+combinations-Responsible -1.0
+GATA6-Checkpoint -1.0
+PC9-Show 0.0
+Examined-FASUDIL -1.0
+Published-Companions -1.0
+IDH-Regulation -1.0
+Transcriptional Networks-CO 0.0909
+Chromatin-PROTEINS 0.3333
+Catalytic-Isocitrate Dehydrogenase -1.0
+Cancer-EVENTS -1.0
+TISSUE-TUMORIGENICITY -1.0
+WT1-Protein A 0.1111
+Development-Absence -1.0
+metastasis-Reports -1.0
+Cyclin-Dependent Kinase Inhibitor-Work -1.0
+Erythropoiesis-Mice 0.0588
+Cancer-Signaling Molecule -1.0
+Regulated-PROTEINS -1.0
+Monitor-MIR-145 -1.0
+ACT-Reported -1.0
+Feedback-Transcription -1.0
+Occur-Phenomena -1.0
+IDH1-Transformation -1.0
+in vitro study-Lanugo -1.0
+Epigenetic Change-Represent -1.0
+Regulation-Study -1.0
+Regression-Reported -1.0
+virus infection-Necrotic -1.0
+PROTEIN-Work -1.0
+Entry-Oncogens -1.0
+metastasis-Tumors 0.3333
+Interest-Enhance -1.0
+AML-Mutations 0.125
+Oct-4-Ectodermal -1.0
+TREAT-Result -1.0
+Signaling Pathways-Pathways -1.0
+Aurora-A kinase-Cell Growth -1.0
+Oct-4-Embryoid Bodies -1.0
+Drive-HOPX -1.0
+Mutations-Promoter -1.0
+Regulation-ATRA -1.0
+Mutations-Metabolite -1.0
+Pathways-Viability, Cell -1.0
+TET2-Reported -1.0
+DEATH-ABLATION -1.0
+Adenocarcinoma of the Lung-RAS -1.0
+Stem-LED -1.0
+compromise-Caspase 8 gene -1.0
+RIP1-Homologous Sequences -1.0
+DEATH-Caspase Inhibitors 0.0769
+Occur-cumulative gene -1.0
+MIR-21-algorithm -1.0
+Binding-P53 -1.0
+TET2-Progenitor Cell proliferation -1.0
+NSCLC-Viability, Cell 0.0909
+Tumorigenesis-Cancer -1.0
+Aurora-A-Show -1.0
+Human cells-Cells -1.0
+ESC-Embryonic Stem Cells -1.0
+Oct-4-Plasmid -1.0
+Reports-RNA -1.0
+Regression-Block -1.0
+Monitor-Show -1.0
+Mutant-Fulfill -1.0
+Selection-Represent -1.0
+Human-Retinoblastoma Protein 0.0588
+Lesion-Individual -1.0
+miRNA--- Lung Cancer 0.0
+LEAD-Stem Cells 0.1111
+TET2 Gene-Survey -1.0
+Cell Lines-Models -1.0
+Carrying-Fulfill -1.0
+Very Important-Process -1.0
+Human-TUMOR TISSUE -1.0
+PROTEIN-resistance Determinant -1.0
+WAS-Human 0.0625
+TET2-Isocitrate Dehydrogenase -1.0
+Bcl-2-FAMILY MEMBER -1.0
+Murine-Carcinoma, Embryonal -1.0
+Reported-Promoter -1.0
+Human-Reagent -1.0
+Mutant-kill -1.0
+Inhibition-Permit -1.0
+CCAAT Enhancer Binding Protein-miRNAs 0.1111
+DNA hypermethylation-Isocitrate Dehydrogenase -1.0
+Occur-Tumors -1.0
+EGFR-PROTEINS -1.0
+miRNA-Tumors 0.125
+Repression-Retinoblastoma 0.125
+ES-CO 0.25
+EC Cell-Up-Regulation -1.0
+NSCLC-Researchers 0.1
+G1 Arrest-Proteolysis -1.0
+Phosphorylation-MIR-145 -1.0
+Study-Cells -1.0
+Cell Cycle Progression-Progression -1.0
+G2/M Transition-LATS1 -1.0
+KRAS-Pathways -1.0
+Necrotic-necrotic cell death -1.0
+RNA Interference-Result -1.0
+Interest-TRAF6 -1.0
+Oct-4-DATA SET -1.0
+Viability, Cell-Checkpoint -1.0
+Examined-study use -1.0
+Promote-Mesodermal -1.0
+Identified-NSCLC -1.0
+ES-Reagent -1.0
+Transcription Factors-Feedback 0.1
+Reported-Genomic -1.0
+ES-Cells 0.1667
+Myelopoiesis-Human 0.0526
+Identified-Show -1.0
+Plays-PLK1 -1.0
+CERVICAL CANCER-COLON CANCER 0.3333
+Senescence-RAS Oncogene -1.0
+CERVICAL CANCER-Breast Cancer 0.3333
+LEAD-fight -1.0
+Oct-4-Microarray Analysis -1.0
+Mesodermal-Chromatin Structure -1.0
+Very Important-Drug Discovery -1.0
+Senescence-TERM -1.0
+Proliferative-LATS2 -1.0
+Lanugo-resistance Determinant -1.0
+Phosphorylation-Take -1.0
+Plays-CDK5RAP2 -1.0
+inhibitors-kinase activity -1.0
+Cell Growth-LATS -1.0
+Show-Hallmark Cell -1.0
+Lethal-Protein A 0.0833
+Human-Aurora-A -1.0
+Catalytic-Enzymatic Activity -1.0
+Human-Tumors 0.0714
+-- Leukemia-Clear cell Kidney Cancer 0.0
+Mouse, NOS-TRAF6 -1.0
+Elimination--- Lung Cancer 0.0
+Reported-Block -1.0
+KRAS-Human gene -1.0
+signalling-Cells -1.0
+Regulation-Roles -1.0
+Transcriptional Networks-Repression 0.0909
+Transformation-Regulation -1.0
+Mutant-GATA2 -1.0
+metastasis-Carcinoma, Thyroid 0.25
+Signaling Pathways-Mice -1.0
+shRNA-RNAi -1.0
+Viability, Cell-Tumorigenesis 0.1111
+System-Regulation -1.0
+State-Block -1.0
+Relapsing-HEPATOCELLULAR CARCINOMA -1.0
+Show-Mouse, NOS -1.0
+cancer screen-depend -1.0
+Actin-PROTEINS 0.25
+Researchers-Viability, Cell 0.125
+-- Leukemia-INSULIN RECEPTOR SUBSTRATE 1 0.0
+EC Cell-Reagent -1.0
+Differentiation-Pluripotent Stem Cell -1.0
+LATS2-Papillary Thyroid Carcinoma -1.0
+studies-ENZYMES -1.0
+Regulated-EGFR -1.0
+regulation of ribosome biogenesis-Proteolysis -1.0
+Mutant-research results -1.0
+Identified-LYMPHOMA -1.0
+ANALYSIS-Cell types -1.0
+Mutation-Kinase 0.1
+anti-apoptosis-ABT-737 -1.0
+Papillary Carcinoma of the Thyroid-CYCLIN E -1.0
+Mcl-1-anti-apoptosis -1.0
+Identified-Drive -1.0
+Mutations-IDH2 -1.0
+Mutations-Isocitrate Dehydrogenase 0.0833
+-- Leukemia-CHRONIC LYMPHOCYTIC LEUKEMIA 0.0
+pRB-Growth arrest -1.0
+Mutations-Block -1.0
+ACUTE MYELOGENOUS LEUKEMIA-Occur -1.0
+Reported-centrosomin -1.0
+bcl-xL-Reported -1.0
+Drive-Represent -1.0
+Identified-Tumors -1.0
+mek-Pathway -1.0
+studies-Transformation -1.0
+Progression--- Lung Cancer 0.0
+TET2-IDH2 Mutation -1.0
+RAS Oncogene-Anaphase Promoting Complex -1.0
+TBK1-Mutation -1.0
+Caco-2 Cells-Construct -1.0
+IDH1-Mutations -1.0
+Transcriptional Network-D1 -1.0
+Transcriptional Networks-Renilla 0.0714
+Mouse, NOS-Plasmid -1.0
+mir-223-Comprise -1.0
+Selection-Epigenetic -1.0
+Mouse, NOS-GATA2 Transcription Factor -1.0
+Rest-Tumor Suppressor -1.0
+Relapsing-CHRONIC LYMPHOCYTIC LEUKEMIA -1.0
+mir-223-ANIMAL -1.0
+ABT-737-bcl-xL -1.0
+Occur-IDH1 -1.0
+OVARIAN CANCER-LATS2 -1.0
+Genotoxic Stress-Proteolysis -1.0
+used-Genes -1.0
+Examined-Patients -1.0
+caspase activity-Death Receptors -1.0
+MCF-Analyzed -1.0
+Relapsing-INSULIN RECEPTOR SUBSTRATE 1 -1.0
+MICROARRAY-DATA SET -1.0
+Promote-POU5F1 -1.0
+Identified-Tumor cells -1.0
+-- Leukemia-LYMPHOMA 0.0
+Take-serine/threonine-protein kinase -1.0
+Thought-Genesis -1.0
+Retinoblastoma Protein-Genesis -1.0
+Monitor-Cell Proliferation -1.0
+Adenocarcinoma of the Lung-Development -1.0
+Rest-Neural Tumors -1.0
+Senescence-Tumor Suppressor -1.0
+derivatives-Block -1.0
+compromise-necrotic cell death -1.0
+Tumors-Thought -1.0
+Progenitor Cell proliferation-mediated -1.0
+mir-223-transcription factor Nuclear Factor I -1.0
+Plays-Cell Cycle -1.0
+CERVICAL CANCER-Clear cell Kidney Cancer -1.0
+Cyclin-Dependent Kinases-Fibroblasts 0.1
+Oct-4-Cells -1.0
+Cancer-TUMOR -1.0
+Telophase-N NOS -1.0
+KRAS-Signaling Pathways -1.0
+ANALYSIS-VARIOUS -1.0
+Phosphorylation-Proteolytic -1.0
+Genes-Pathways -1.0
+miRNAs-Human Development 0.1111
+G2/M Arrest-Anaplastic Thyroid Cancer -1.0
+ESC-VARIOUS -1.0
+RNA Interference-depend -1.0
+Related-Mice -1.0
+Oct-4-Carcinoma, Embryonal -1.0
+HOPX-centrosomin -1.0
+Stem-commitment -1.0
+Cancer-Cytotoxic -1.0
+AN-P19 -1.0
+studies-IDH -1.0
+AN-P14 -1.0
+GATA2-Regulated -1.0
+Breast Cancer-Carcinoma, Thyroid 0.3333
+LATS2-Activated -1.0
+RNA Interference-Permit -1.0
+Stem-used -1.0
+in vitro study-used -1.0
+TET2-RNAi -1.0
+Cyclin-Dependent Kinase Inhibitor-Model System -1.0
+Differentiated-Carcinoma, Embryonal -1.0
+Cyclin-D1-Study -1.0
+Adopted-Line -1.0
+Binding-Stimulated -1.0
+necroptosis-caspase activity -1.0
+Electroporation-Western Blotting 0.25
+P53-Activate -1.0
+regulation of ribosome biogenesis-MDM2 -1.0
+Cells-Functional Component -1.0
+Viability, Cell-localisation -1.0
+Inhibition-Result -1.0
+Actin-Complexes -1.0
+ES-Microarray Analysis 0.125
+ABLATION-LUNG TUMOR -1.0
+Breast Cancer-COLON CANCER 0.3333
+Tumorigenesis-Researchers 0.125
+CERVICAL CANCER-Oncogene 0.0833
+mir-223-Regulated -1.0
+EC Cell-Microarray Analysis -1.0
+CCAAT Enhancer Binding Protein-Comprise -1.0
+Reported-Model System -1.0
+EVENTS-INTERMEDIATE -1.0
+Differentiated-Expression Profiling -1.0
+Human-TUMOR 0.0714
+study use-VARIOUS -1.0
+Mice-Reported -1.0
+hTERT-Hallmark Cell -1.0
+Aurora-A kinase-Show -1.0
+Lanugo-Model System -1.0
+Genes-Researchers 0.1
+TET2-Phenotype -1.0
+Senescence-Cellular Stress Response -1.0
+Mutant-Pathways -1.0
+Centrosomes-miRNA 0.0667
+Elimination-Advance -1.0
+Work-Cell Differentiation 0.125
+Response-overexpress -1.0
+Contribute-cervical cancers -1.0
+Cell Cycle Arrest-Oncogens -1.0
+Regulation-NB4S -1.0
+Ectodermal-Plays -1.0
+Computational-used -1.0
+LEAD-GATA2 Transcription Factor 0.1
+Take-lead increased -1.0
+Oct-4-Published -1.0
+Human cells-UTR -1.0
+Cells-Tumorigenesis 0.1429
+KRAS-c-Raf -1.0
+Oncogene-Deregulation -1.0
+Mammalian-VARIOUS -1.0
+Detected-Regulated -1.0
+Reported-Show -1.0
+Genes-NSCLC 0.0769
+Comparison-KRAS -1.0
+Transcriptional Network-Responsible -1.0
+Mesodermal-Stem Cells -1.0
+TET2-Lead 2+ 0.0
+Caco-2 Cells-Protein Expression -1.0
+Inhibiting-cervical cancers -1.0
+Contribute-Regulation -1.0
+Cyclin-D1-Show -1.0
+Aurora-A kinase-MIR-21 -1.0
+Human-Exhibit -1.0
+Phenomena-cumulative gene -1.0
+Library-GATA2 -1.0
+mir-223-System -1.0
+Chips-Cell types -1.0
+IDH2 Gene-IDH1 -1.0
+CCAAT Enhancer Binding Protein-Transcription Factors 0.3333
+NF1-Feedback 0.0909
+TET2 Gene-Clarified -1.0
+Myeloid Differentiation-Lanugo -1.0
+Work-Cells 0.1667
+KRAS-RAS -1.0
+strategies-PROTEIN -1.0
+Researchers-Reported -1.0
+TET2-IDH2 -1.0
+TET2-IDH1 -1.0
+Deletion-play -1.0
+Examined-NSCLC -1.0
+Elimination-research results -1.0
+Cancer-E2F-1 -1.0
+Tumor Suppressor Proteins-Gene Mutation -1.0
+Examined-Treated with -1.0
+Breast Cancer-Human 0.0667
+Oct-4-ESC -1.0
+lung tumors-Tumors regression -1.0
+pRB-Fibroblasts -1.0
+Growth arrest-Activated -1.0
+necroptosis-DEATH -1.0
+GATA2-Signaling Pathways -1.0
+Roles-Human Development 0.2
+Human-Individual -1.0
+Actin-VARIOUS -1.0
+regulation of ribosome biogenesis-ligase inhibitor -1.0
+HOPX-NDEL1 -1.0
+Cell Cycle Progression-Consideration -1.0
+HeLa-Western Blotting -1.0
+Human-Microarray Analysis 0.0625
+Elimination-Represent -1.0
+Reported-Proteolysis -1.0
+Selection-TISSUE -1.0
+KRAS-Result -1.0
+Primitive-Chromatin Structure -1.0
+CERVICAL CANCER-Aurora-A -1.0
+Cancer-Genesis -1.0
+Differentiation-tumor growth -1.0
+Alone-Represent -1.0
+Reported-Redundant -1.0
+CERVICAL CANCER-Roles 0.1111
+Chemical-necrotic cell death -1.0
+Show-Examined -1.0
+Fibroblasts-Cells 0.3333
+Oncogene-Malignant -1.0
+LATS2-Homologous -1.0
+Show-APC -1.0
+Mcl-1-ABT-737 -1.0
+EGFR-Aurora-A -1.0
+Show-play -1.0
+GATA2-Reported -1.0
+compromise-ABLATION -1.0
+TET2-Myeloid Differentiation -1.0
+Cell Growth-PROTEINS -1.0
+Mitosis-LATS1 -1.0
+Show-Cell Survival -1.0
+Flow-Synthetic -1.0
+Promote-Primitive -1.0
+OVARIAN CANCER-Stimulated -1.0
+Murine-Cell types -1.0
+TRAF6-Lung Infection -1.0
+Adopted-All-trans Retinoic Acid -1.0
+Mammalian-Related -1.0
+TBK1-Permit -1.0
+Fibroblasts-State -1.0
+Elimination-STANDING -1.0
+solid tumors-Block -1.0
+these-ACT -1.0
+Centrosomes-Show -1.0
+G1 Arrest-studies -1.0
+Subunit-VARIOUS -1.0
+Report-Cell Proliferation -1.0
+Cell types-Tumor Progression -1.0
+Mutant-Result -1.0
+GATA2-Pathway -1.0
+Show-AKT -1.0
+Account #-Lethal 0.0
+Reported-IDH1 Mutation -1.0
+Thought-TUMORIGENICITY -1.0
+Adenocarcinoma of the Lung-Promoter -1.0
+Oct-4-Maintain -1.0
+Phosphorylation Site-D1 -1.0
+ABT-737-Cancer -1.0
+MCF-Construct -1.0
+Block-Growth arrest -1.0
+Bcl-2-Regression -1.0
+Mouse, NOS-DATA SET -1.0
+Activated-RAS Oncogene -1.0
+metastasis-LYMPHOMA 0.25
+combinations-Anaphase Promoting Complex -1.0
+Proteolysis-Senescence -1.0
+GATA2-Genes -1.0
+apoptotic cell death-Cytotoxic -1.0
+Promote-Transcript -1.0
+Cell Cycle Progression-Telophase -1.0
+Cyclin-D1-APC -1.0
+Caco-2 Cells-MCF7 -1.0
+Proliferative-overexpress -1.0
+Regulation-localisation -1.0
+Mutant-Regulated -1.0
+Cell Cycle Progression-Anaphase -1.0
+Entry-Show -1.0
+MDM2-Senescence -1.0
+Mouse, NOS-Study -1.0
+Cell Lines-KRAS -1.0
+Cell types-Understand -1.0
+Cyclin-D1-Proteolysis -1.0
+PC9-Process 0.0
+Occur-neoplastic transformation -1.0
+Necrotic-Process -1.0
+TET2-AML -1.0
+apoptotic cell death-Anaplastic Thyroid Cancer -1.0
+Chips-Embryonic Stem Cells -1.0
+Senescence-Ras proteins -1.0
+Mcl-1-ACUTE MYELOGENOUS LEUKEMIA -1.0
+ABT-737-Reported -1.0
+mir-223-Show -1.0
+Target Gene-used -1.0
+bcl-xL-depend -1.0
+Binding-overexpress -1.0
+WAS-Transformation -1.0
+ES-UTR -1.0
+Transcriptional Networks-Reports -1.0
+studies-Embryoid Bodies -1.0
+Murine-cells differentiation -1.0
+P53-regulation of ribosome biogenesis -1.0
+Progression-Very Important -1.0
+Oncogene-Transformation -1.0
+Cancer-Tumors -1.0
+LEAD-LUNG TUMOR -1.0
+Oct-4-Up-Regulation -1.0
+Production-Block -1.0
+Screen-Show -1.0
+Promote-Progenitor -1.0
+Human-CDK5RAP2 -1.0
+strategies-Response -1.0
+Cells-Cellular Stress Response -1.0
+Cancer-Synthetic -1.0
+-- Lung Cancer-Drug Discovery 0.0
+Tumors-IDH -1.0
+GATA2-Lethal -1.0
+Cell Growth-localisation -1.0
+ESC-DATA SET -1.0
+System-Line -1.0
+GATA2-D1 -1.0
+System-Promoter -1.0
+Centrosomes-studies -1.0
+Show-Characterized -1.0
+KRAS-human cell lines -1.0
+Carbon-Models -1.0
+cancer screen-Pathway -1.0
+P53-Ubiquitin 0.0833
+Work-NB4S -1.0
+Cells-GTP 0.1111
+ACT-Tumor specimens -1.0
+Relapsing-Oncogene -1.0
+miRNA-Clear cell Kidney Cancer -1.0
+Transcriptional Networks-Microarray Analysis 0.0909
+PPP-GATA2 -1.0
+TREAT-PC9 0.0
+Tet-cervical cancers -1.0
+MICROARRAY-Cell types -1.0
+Cell Growth-Activities -1.0
+Chromatin-Related -1.0
+NSCLC-Library 0.0909
+Drive-Responsible -1.0
+GATA2-GATA6 -1.0
+EC Cell-Repression -1.0
+Tissues-P19 -1.0
+Human cells-SEQUENCING -1.0
+Phosphorylation-Roles 0.1
+Tissues-P14 -1.0
+Account #-KRAS 0.0
+Leukemic Cells-IDH2 -1.0
+Identified-Anaphase Promoting Complex -1.0
+Branch-Synthetic -1.0
+Selection-Thought -1.0
+Epigenetic-neoplastic transformation -1.0
+Mcl-1-Cytotoxic -1.0
+Differentiation-Stem Cells -1.0
+TET2-IDH -1.0
+Process-cumulative gene -1.0
+Micro-tubule-studies -1.0
+Cancer-hTERT -1.0
+Stem-Lanugo -1.0
+Tumor cells-inhibitors -1.0
+Examined-BORTEZOMIB -1.0
+Development-Normal cell division -1.0
+Carbon-Drive 0.1111
+Researchers-PC9 0.0
+Show-degradation of cyclin -1.0
+TRANSCRIPTION FACTOR-Enhance -1.0
+Agent-striking -1.0
+Ionising radiation-Proteolysis -1.0
+NSCLC-Cell Growth -1.0
+AN-regulation of ribosome biogenesis -1.0
+System-Study -1.0
+Mcl-1-Tumor cells -1.0
+Crassa-Homolog -1.0
+Human cells-Renilla -1.0
+Differentiation-Cell types -1.0
+Reported-2-HG -1.0
+Reported-Papillary Thyroid Carcinoma -1.0
+Mouse, NOS-cells differentiation -1.0
+Development-neoplastic transformation -1.0
+shRNA-mediated -1.0
+Differentiated-ANALYSIS -1.0
+Primitive-Transcript -1.0
+Caveat-Drug Discovery -1.0
+Drug Resistance-model -1.0
+Report-MIR-145 -1.0
+IL1-Responsible -1.0
+Inhibition-Pathway -1.0
+Cells-PROTEINS 0.1667
+LATS2-Cell Growth -1.0
+mir-223-Human Development -1.0
+Cyclin-Dependent Kinases-INK4a -1.0
+Human-Maturation -1.0
+Progenitor-Chromatin Structure -1.0
+Mutant-Very Important -1.0
+MICROARRAY-Embryonic Stem Cells -1.0
+Tumor cells-lead increased -1.0
+Epigenetic Change-neoplastic transformation -1.0
+CAAT-Enhancer Binding Protein-transcription factor Nuclear Factor I -1.0
+Development-Phenomena -1.0
+model-bind -1.0
+NSCLC-Fulfill -1.0
+LATS2-G2/M Transition -1.0
+Mice-Characterized -1.0
+Identified-Reports -1.0
+Ubiquitination-THREONINE 0.0833
+mediated-LEAD -1.0
+Caveat-Process -1.0
+Block-Senescence -1.0
+mediated-Oncogens -1.0
+Cell Cycle Progression-N NOS -1.0
+Telophase-Homolog -1.0
+Leukemic Cells-Lead 2+ 0.0
+pRB-ligase inhibitor -1.0
+P53-Tumor Suppressor Proteins 0.0833
+Take-Cell metabolism -1.0
+KRAS-Lethal -1.0
+Oct-4-Difference stage -1.0
+Subunit-ATP-dependent chromatin remodeling -1.0
+CERVICAL CANCER-Breast Cancer Cell -1.0
+IL1-degradation of cyclin -1.0
+Show-Cell metabolism -1.0
+RNAi-Show -1.0
+BAF53-Related -1.0
+RNAi-GATA2 -1.0
+Pathways-PC9 0.0
+TET2-studies -1.0
+Tumors-Represent -1.0
+Promote-Endodermal -1.0
+Comparison-LABORATORY -1.0
+Epigenetic-EVENTS -1.0
+Difference stage-Carcinoma, Embryonal -1.0
+Proteasome-Enhance -1.0
+Activated-Oncogens -1.0
+Development-TUMORIGENICITY -1.0
+-- Prostate Cancer-overexpress 0.0
+miRNA-RNA 0.3333
+derivatives-Tumor cells -1.0
+Production-Mutations -1.0
+Myeloid Differentiation-commitment -1.0
+strategies-Result -1.0
+Leukemic Cells-Promoter -1.0
+Represent-Normal cell division -1.0
+Thought-TUMOR -1.0
+RAS-Result -1.0
+cancer cells-CELL -1.0
+NSCLC-Non-Small Cell Lung Cancer 1.0
+Cells-Mutation 0.1429
+Centrosomes-Interphase 0.0667
+caspase activity-ABLATION -1.0
+Entry-studies -1.0
+Mutations-Development -1.0
+IDH-IDH2 -1.0
+Phosphorylation-Box -1.0
+Phosphorylation Site-APC -1.0
+Tumor Suppressor-BREAST -1.0
+Mutant-striking -1.0
+Agent-Kinase -1.0
+ACUTE MYELOGENOUS LEUKEMIA-TET2 -1.0
+Human cells-Reports -1.0
+Mutant-Researchers -1.0
+Actin-Regulated -1.0
+G2/M Arrest-CERVICAL CANCER -1.0
+mir-223-ATRA -1.0
+Cell Cycle Arrest-Fibroblasts -1.0
+WT1-Permit -1.0
+Repression-Genesis -1.0
+Mitosis-Homologous -1.0
+Occur-EVENTS -1.0
+Genes-Drive 0.0909
+model-RAS -1.0
+IDH2 Mutation-ENZYMES -1.0
+NSCLC-PC9 0.0
+Thought-Retinoblastoma -1.0
+Oct-4-MICROARRAY -1.0
+PC9-Aurora-A 0.0
+GATA2-Responsible -1.0
+PC9-Tumorigenesis 0.0
+IDH2 Gene-Transformation -1.0
+Process-Researchers -1.0
+Process-Cancer -1.0
+Aurora-A kinase-Cell Proliferation 0.0833
+Aurora-A-Cell Proliferation -1.0
+AN-Tumor Suppressor Proteins 0.1
+Tumors-STANDING -1.0
+Human-play -1.0
+Electroporation-VARIOUS -1.0
+cancer screen-Protein A -1.0
+Ectodermal-Chromatin Structure -1.0
+Tumor Suppressor Proteins-E2F-1 -1.0
+TET2-Block -1.0
+TRANSCRIPTION FACTOR-TRAF6 0.1667
+-- Leukemia-Carcinoma, Thyroid 0.0
+Transcription Factors-Granulopoiesis -1.0
+Actin-Related -1.0
+Cells-Result -1.0
+Differentiated-studies -1.0
+Cell Cycle Progression-Deletion -1.0
+FUNCTIONS OF REPRODUCTION-CELL -1.0
+therapeutics-Block -1.0
+Ionising radiation-APC -1.0
+Progression-research results -1.0
+IDH2 Mutation-Inhibiting -1.0
+Epigenetic Change-Phenomena -1.0
+EGFR-Process -1.0
+SWI-ATP-dependent chromatin remodeling -1.0
+Mutant-Mice -1.0
+Tumor cells-Signaling Molecule -1.0
+-- Leukemia-Reports 0.0
+IDH1 Mutation-IDH1 -1.0
+Cell Cycle Progression-Kinase -1.0
+Ubiquitination-Study -1.0
+Fibroblasts-RAS Oncogene -1.0
+bcl-xL-Tumor cells -1.0
+Genes-TREAT -1.0
+Transcriptional Networks-SEQUENCING -1.0
+Pathways-HOPX -1.0
+cancer screen-Mutation -1.0
+Ubiquitination-degradation of cyclin -1.0
+Mouse, NOS-bind -1.0
+RIP3-Show -1.0
+bcl-xL-Result -1.0
+IL1-Ionising radiation -1.0
+Ubiquitination-Skin 0.0909
+Study-Anaphase Promoting Complex -1.0
+Normal cell division-cumulative gene -1.0
+Crassa-Deletion -1.0
+pRB-Cancer -1.0
+roscovitine-Work -1.0
+Drive-PC9 0.0
+ES-Study -1.0
+Tumor cells-Hallmark Cell -1.0
+virus infection-Chemical -1.0
+Epigenetic-TISSUE -1.0
+Mutations-c-Raf -1.0
+Occur-Development -1.0
+ESC-cells differentiation -1.0
+model-GATA2 Transcription Factor -1.0
+ABT-737-FAMILY MEMBER -1.0
+ES-Plasmid 0.125
+IDH2 Mutation-IDH -1.0
+cancer screen-Defined -1.0
+Chromatin-Complexes -1.0
+Tumors-Process -1.0
+EGFR-localisation -1.0
+Phosphorylation Site-Proteolytic -1.0
+G1 Arrest-Reported -1.0
+TET2-Metabolite -1.0
+Activated-Alone -1.0
+play-Exhibit -1.0
+TET1-Tet -1.0
+Tissues-Maturation -1.0
+NSCLC-KRAS -1.0
+Identified-Pancreatic Cancer -1.0
+Proteasome-Promoter -1.0
+CAAT-Enhancer Binding Protein-Feedback 0.0909
+Show-Human -1.0
+GATA2-Viability, Cell -1.0
+Anaphase-Homolog -1.0
+human cell lines-Show -1.0
+Reported-Mutations -1.0
+Breast Cancer--- Leukemia 0.0
+IDH1-Inhibiting -1.0
+Process-Tumor Progression -1.0
+Cell Lines-Drive 0.1111
+GATA2-Pathways -1.0
+Cancer-NSCLC -1.0
+Aurora-A-Cell Growth -1.0
+Tumor regression-Very Important -1.0
+Show-serine/threonine-protein kinase -1.0
+miRNA-IRS-1 -1.0
+PPP-Models -1.0
+Murine-Embryonic Stem Cells -1.0
+Branch-KRAS -1.0
+BAF53-VARIOUS -1.0
+mir-223-Line -1.0
+Cancer-INTERMEDIATE -1.0
+Production-IDH -1.0
+derivatives-Cytotoxic -1.0
+bcl-xL-Block -1.0
+Identified-Responsible -1.0
+P53-E2F-1 -1.0
+TBK1-Defined -1.0
+mir-223-Roles -1.0
+MCF-SDS PAGE -1.0
+Breast Cancer-Relapsing -1.0
+metastasis--- Lung Cancer 0.0
+cancer cells-Binding -1.0
+CERVICAL CANCER-Pancreatic Cancer 0.3333
+Immortalized-Signaling Molecule -1.0
+studies-Tumors -1.0
+UP-Detected -1.0
+GATA2-centrosomin -1.0
+telomerase activity-AKT -1.0
+Selection-Normal cell division -1.0
+signalling-Anaphase Promoting Complex -1.0
+studies-cervical cancers -1.0
+Cancer-Drive -1.0
+Inhibition-Tumor cells -1.0
+bcl-xL-Permit -1.0
+Resistance-Reported -1.0
+strategies-Defined -1.0
+GATA2-Related -1.0
+GATA2-Activities -1.0
+studies-Carcinoma, Embryonal -1.0
+Crassa-Kinase -1.0
+Relapsing-IRS-1 -1.0
+TREAT-Cell Growth -1.0
+TRANSCRIPTION FACTOR-bind -1.0
+Ubiquitination-Box -1.0
+DNA hypermethylation-Promoter -1.0
+TET2-Leukemic Cells -1.0
+Cancer-Cell metabolism -1.0
+Pitta-used -1.0
+TAK1-Result -1.0
+Oncogene-BREAST 0.0833
+NSCLC-degradation of cyclin -1.0
+GATA2-Agent -1.0
+Drive-Ionising radiation -1.0
+Flow-Lethal -1.0
+Proteasome-Anaphase Promoting Complex 0.1429
+Genes-Regulated -1.0
+ABT-737-apoptotic cell death -1.0
+derivatives-Reported -1.0
+hTERT-INTERMEDIATE -1.0
+Proliferative-P53 -1.0
+ABLATION-TRAF6 -1.0
+localisation-Phosphorylation -1.0
+P53-Mammalian Cell -1.0
+NSCLC-RNAi -1.0
+GATA2-look -1.0
+localisation-Aurora-A kinase -1.0
+Electroporation-Analyzed -1.0
+Epigenetic-Thought -1.0
+EVENTS-Cell metabolism -1.0
+Trigger-Mammalian Cell -1.0
+mediated-Fibroblasts -1.0
+Senescence-Like -1.0
+GATA6-Aurora-A -1.0
+-- Prostate Cancer-P53 0.0
+Occur-Epigenetic Change -1.0
+Telophase-localisation -1.0
+Leukemic Cells-Block -1.0
+Growth arrest-RAS -1.0
+Transcripts-Companions -1.0
+cancer cells-PROTEIN -1.0
+Cell types-Researchers -1.0
+Activated-RAS -1.0
+miRNAs-Myelopoiesis 0.0769
+Mesodermal-Pluripotent Stem Cell -1.0
+IDH-IDH1 Mutation -1.0
+TET2-Tumors -1.0
+Carbon-AS gene -1.0
+20%-Synthetic -1.0
+Differentiated-Embryonal Carcinoma Cell -1.0
+WT1-Pathway -1.0
+Drug Resistance-study use -1.0
+Cells-Process -1.0
+Trigger-Genotoxic Stresses -1.0
+LATS2-Block -1.0
+Oncogene-Neural Tumors -1.0
+Tumor Suppressor-Suppressor -1.0
+Human-PLK1 -1.0
+cancer cells-Anaphase Promoting Complex -1.0
+Granulopoiesis-miRNAs -1.0
+WAS-Human cells -1.0
+Cell Growth-Functional Component -1.0
+pRB-Genesis -1.0
+Haematopoiesis-Myelopoiesis 0.3333
+Mutant-Tumor cells -1.0
+LEAD-research results -1.0
+CERVICAL CANCER-Carcinoma, Thyroid 0.3333
+System-Cell Differentiation -1.0
+Aurora-A kinase-Block -1.0
+Adopted-Cells -1.0
+P53-LEAD 0.0833
+GATA2-Permit -1.0
+Promote-Maintain -1.0
+GATA2-Cells -1.0
+studies-depend -1.0
+Flow-LABORATORY -1.0
+GATA2-LUNG TUMOR -1.0
+AML-IDH2 Mutation -1.0
+WAS-Exhibit -1.0
+CAAT-Enhancer Binding Protein-CCAAT Enhancer Binding Protein 1.0
+DNA hypermethylation-2-HG -1.0
+Leukemic Cells-IDH1 Gene Mutation -1.0
+Activated-Tumor Suppressor -1.0
+STANDING-research data -1.0
+Oct-4-Differentiation -1.0
+IDH2 Gene-Clarified -1.0
+Primitive-Stem Cells -1.0
+Show-localisation -1.0
+Related-NSCLC -1.0
+localisation-LATS2 -1.0
+Oct-4-Endodermal -1.0
+Mutations-NSCLC 0.0909
+EVENTS-Cell Growth -1.0
+mir-223-Study -1.0
+Epigenetic-cumulative gene -1.0
+Show-Myelopoiesis -1.0
+Mutations-Drive 0.1111
+Tumor regression-research results -1.0
+Mouse, NOS-Cells -1.0
+Related-Drive -1.0
+Retinoblastoma Protein-Tumors 0.125
+Branch-GATA2 -1.0
+Mice-EGFR -1.0
+Relapsing-Show -1.0
+STK33-Mutation -1.0
+fight-Process -1.0
+Tumor Suppressor Proteins-Proteolysis 0.1
+KRAS-Tumor cells -1.0
+Mutant-Defined -1.0
+kill-Protein A -1.0
+Differentiation-VARIOUS -1.0
+Mutations-IDH1 Mutation -1.0
+Drug Resistance-Treated with -1.0
+Mutations-Lead 2+ 0.0
+metastasis-HEPATOCELLULAR CARCINOMA 0.25
+mir-223-Promoter -1.0
+Expression Profiling-Cell types -1.0
+Centrosomes-Oncogens 0.0667
+Nucleotides-Translational -1.0
+Pathway-Individual -1.0
+Plays-LATS2 -1.0
+cancer cells-Response -1.0
+Centrosomes-Detected -1.0
+P53-pRB -1.0
+GATA2-Result -1.0
+Detected-Aurora-A -1.0
+study use-DATA SET -1.0
+hTERT-serine/threonine-protein kinase -1.0
+Cell Cycle Progression-Affect -1.0
+metastasis-Head 0.1667
+Cyclin-D1-studies -1.0
+Human-Roles 0.0588
+Pancreatic Cancer-P53 0.1667
+Plays-LATS1 -1.0
+localisation-Plays -1.0
+mir-223-Transcription Factors -1.0
+mir-223-Cell Differentiation -1.0
+Differentiated-MICROARRAY -1.0
+NSCLC-Ionising radiation -1.0
+EVENTS-AKT -1.0
+G1 Arrest-Genotoxic Stresses -1.0
+Micro-tubule-Oncogens -1.0
+TET2-IDH2 Gene -1.0
+LEAD-Maintain -1.0
+Tumors-Normal cell division -1.0
+RIP-Reported -1.0
+Tumor Suppressor-Malignant -1.0
+Cyclin-D1-Genotoxic Stresses -1.0
+Mutant--- Lung Cancer 0.0
+Leukemic Cells-IDH1 Mutation -1.0
+Identified-degradation of cyclin -1.0
+Cells-Development -1.0
+Identified-Mice -1.0
+Adenocarcinoma of the Lung-Oncogens -1.0
+MCF-Western Blotting -1.0
+Fibroblasts-Gene Expression 0.1111
+caspase activity-necrotic cell death -1.0
+play-Retinoblastoma -1.0
+TAK1-Defined -1.0
+combinations-degradation of cyclin -1.0
+TET1-Transformation -1.0
+Researchers-GATA2 -1.0
+Researchers-GATA6 -1.0
+Chemical-ABLATION -1.0
+Human-Reports -1.0
+mir-223-miRNAs -1.0
+GATA2-bind -1.0
+Crassa-Anaphase -1.0
+Endodermal-tumor growth -1.0
+Primitive-Maintain -1.0
+mir-223-Mouse, NOS -1.0
+IDH-2-HG -1.0
+Transcriptional Network-Ionising radiation -1.0
+PPP-Lethal 0.1429
+Mutant-RNAi -1.0
+Breast Cancer-CHRONIC LYMPHOCYTIC LEUKEMIA 0.3333
+Mice-Cells 0.0769
+Human-Renilla 0.0769
+Epigenetic-Normal cell division -1.0
+TET2-Redundant -1.0
+Differentiated-VARIOUS -1.0
+Identified-Pathway -1.0
+studies-Regulation -1.0
+Mitosis-Cell Cycle 0.25
+G2/M Arrest-Regulated -1.0
+Activated-Oncogenes -1.0
+KRAS-Mutation -1.0
+NIH 3T3 Cells-TERM -1.0
+Differentiation-Carcinoma, Embryonal -1.0
+Represent-TUMORIGENICITY -1.0
+Phosphorylation-Phosphorylation Site -1.0
+Mouse, NOS-Reagent -1.0
+Human-Repression 0.0625
+Fibroblasts-Oncogens 0.1
+Myeloid Differentiation-Differentiation -1.0
+Aurora-A-MIR-21 -1.0
+Micro-tubule-Work -1.0
+roscovitine-resistance Determinant -1.0
+EC Cell-Reports -1.0
+KRAS-EGFR -1.0
+Tissues-Roles 0.125
+Take-Hallmark Cell -1.0
+Pathway-Tumor specimens -1.0
+Oct-4-Pluripotent Stem Cell -1.0
+Advance-Drug Discovery -1.0
+EC Cell-TUMOR TISSUE -1.0
+Human cells-Repression -1.0
+neoplastic transformation-cumulative gene -1.0
+caspase activity-Caspase Inhibitors -1.0
+Human-Lesion -1.0
+RIP3-Motif -1.0
+Take-Box -1.0
+EVENTS-serine/threonine-protein kinase -1.0
+Tumor Suppressor-Human cells -1.0
+Ectodermal-Maintain -1.0
+miRNA-LYMPHOMA 0.1111
+shRNA-studies -1.0
+Drug Resistance-NSCLC 0.0909
+shRNA-used -1.0
+Tissues-CDK5RAP2 -1.0
+Identified-Regulated -1.0
+Micro-tubule-Cell Lines -1.0
+Rest-Small Cell Lung Cancers -1.0
+-- Leukemia-Cervical Squamous Cell Carcinoma 0.0
+Tumor regression-Advance -1.0
+Transcriptional Network-degradation of cyclin -1.0
+Regression-FAMILY MEMBER -1.0
+Transcriptional Networks-Transfection 0.125
+Occur-Epigenetic -1.0
+metastasis-Clear cell Kidney Cancer -1.0
+RIP3-Reported -1.0
+TBK1-depend -1.0
+CCAAT Enhancer Binding Protein-Study -1.0
+OVARIAN CANCER-CYCLIN E 0.1
+EC Cell-Study -1.0
+20%-Lethal -1.0
+Human-Study -1.0
+Expression Profiling-VARIOUS -1.0
+Chemical-Process -1.0
+ESC-Companions -1.0
+Transcriptional Networks-TUMOR TISSUE -1.0
+Binding-Related -1.0
+Cell Lines-AS gene -1.0
+Phosphorylation-Block -1.0
+Transcriptional Networks-Study -1.0
+EGFR-LATS -1.0
+Human-Tumor Suppressor Proteins 0.0588
+GATA6-localisation -1.0
+Myelopoiesis-specific -1.0
+Show-Affect -1.0
+Cell Growth-NDEL1 -1.0
+Myeloid Differentiation-LED -1.0
+Reported-Survey -1.0
+Mammalian-ATP-dependent chromatin remodeling -1.0
+Human gene-Show -1.0
+these-Tumors -1.0
+TET2-2-HG -1.0
+lung tumors-Cells -1.0
+Mouse, NOS-Point A -1.0
+System-ATRA -1.0
+Flow-Drive -1.0
+RNA Interference-Defined -1.0
+Immortalized-Cell Survival -1.0
+Researchers-Cell Growth -1.0
+Drug Resistance-BORTEZOMIB -1.0
+Cells-Lethal 0.1111
+LEAD-Advance -1.0
+Interest-GATA2 Transcription Factor -1.0
+AN-Proteolysis 0.1111
+Trigger-Activate -1.0
+Cell Cycle Progression-Examined -1.0
+Development-EVENTS -1.0
+Mammalian Cell-Proteolysis -1.0
+Electroporation-HeLa Cells 0.1111
+TET2-used -1.0
+IDH1 Mutation-Genomic -1.0
+MDM2-Growth arrest -1.0
+Tumor regression-LUNG TUMOR -1.0
+Progression-fight -1.0
+Account #-Models 0.0
+mir-223-NF1 -1.0
+Occur-Phenotype -1.0
+Mice-Human 0.1
+EC Cell-Transfection -1.0
+Entry-Cell Proliferation -1.0
+apoptotic cell death-FAMILY MEMBER -1.0
+Chemical-Show -1.0
+Oct-4-Expression Profiling -1.0
+Occur-Represent -1.0
+Growth arrest-NIH 3T3 Cells -1.0
+Reported-IDH2 Mutation -1.0
+IDH1 Mutation-Study -1.0
+Production-Leukemic Cells -1.0
+Electroporation-Protein Expression -1.0
+Transcriptional Networks-qRT-PCR -1.0
+GATA2-Kinase -1.0
+miRNA-Head 0.1111
+LATS2-Anaplastic Thyroid Cancer -1.0
+Researchers-Cells 0.1667
+Adenocarcinoma of the Lung-TRAF6 -1.0
+compromise-Death Receptors -1.0
+LEAD-Promoter -1.0
+Either-Fulfill -1.0
+pRB-Ubiquitin -1.0
+pRB-INK4a -1.0
+Oct-4-Transcript -1.0
+Bcl-2-Cytotoxic -1.0
+metastasis-Pancreatic Cancer 0.25
+Cancer-ligase inhibitor -1.0
+Response-Absence -1.0
+Aurora-A kinase-Aurora-A -1.0
+Entry-cervical cells -1.0
+Reported-Metabolite -1.0
+pRB-Retinoblastoma -1.0
+GATA2-RAS -1.0
+Comprise-Granulopoiesis -1.0
+model-Oncogens -1.0
+-- Prostate Cancer-CYCLIN E 0.0
+TET2-Carrying -1.0
+Cell Lines-LABORATORY 0.1111
+CERVICAL CANCER-miRNA 0.1111
+Proteasome-Oncogens 0.1111
+Proteolysis-Growth arrest -1.0
+Roles-Granulocyte 0.1
+Take-THREONINE -1.0
+Reported-Functional Component -1.0
+IDH2 Gene-Contribute -1.0
+Identified-CHRONIC LYMPHOCYTIC LEUKEMIA -1.0
+IDH2 Gene-Show -1.0
+Take-Cell Survival -1.0
+Growth arrest-Cells -1.0
+AN-E2F-1 -1.0
+Oct-4-Companions -1.0
+localisation-Human -1.0
+IDH1 Mutation-Scale -1.0
+LATS2-Show -1.0
+Production-DNA hypermethylation -1.0
+virus infection-DEATH -1.0
+therapeutics-Reported -1.0
+miRNA-Oncogene 0.0714
+Progenitor Cell proliferation-commitment -1.0
+Kinase-Homolog -1.0
+Phosphorylation-MIR-21 -1.0
+Phosphorylation Site-Skin -1.0
+apoptotic cell death-Reported -1.0
+TET2-Show -1.0
+G1 Arrest-APC -1.0
+State-Cell Growth -1.0
+Mutations-cervical cancers -1.0
+Oct-4-Plays -1.0
+Ras proteins-Gene Expression 0.0909
+inhibitors-necrotic cell death -1.0
+inhibitors-Cell Growth -1.0
+Tumors-TISSUE 0.2
+STANDING-Drug Discovery -1.0
+mediated-Rodent -1.0
+P53-ligase inhibitor -1.0
+Reported-IDH1 -1.0
+Reported-IDH2 -1.0
+Phosphorylation-CDK5RAP2 -1.0
+GATA2-PC9 0.0
+Cyclin-Dependent Kinase Inhibitor-resistance Determinant -1.0
+RNA Interference-Protein A 0.0769
+Mammalian Cell-Genotoxic Stresses -1.0
+Tumor regression-fight -1.0
+mek-inhibitors -1.0
+ENZYMES-Regulation -1.0
+Progenitor Cell proliferation-LED -1.0
+Reported-resistance Determinant -1.0
+Regulation-All-trans Retinoic Acid -1.0
+CCAAT Enhancer Binding Protein-miRNA 0.1111
+Fibroblasts-Cultured Cells 0.25
+strategies-inhibitors -1.0
+TRANSCRIPTION FACTOR-Development -1.0
+Murine-VARIOUS -1.0
+Phosphorylation-Cell Proliferation 0.125
+studies-VARIOUS -1.0
+GATA2-GATA2 Transcription Factor -1.0
+Affect-localisation -1.0
+SWI-VARIOUS -1.0
+play-Genesis -1.0
+KRAS-Drive -1.0
+inhibitors-GATA6 -1.0
+mediated-Senescence -1.0
+Reported-Process -1.0
+Occur-Redundant -1.0
+MIR-21-Genes -1.0
+Reported-Anaplastic Thyroid Cancer -1.0
+Show-THREONINE -1.0
+Mutant-Permit -1.0
+TET2-mediated -1.0
+HeLa-Analyzed -1.0
+solid tumors-Reported -1.0
+Drive-Very Important -1.0
+Represent-Process -1.0
+Ionising radiation-Mammalian Cell -1.0
+Human cells-Up-Regulation -1.0
+Drive-GATA6 -1.0
+Resistance-Cytotoxic -1.0
+Mesodermal-Maintain -1.0
+Tumor cells-Drive -1.0
+TREAT-depend -1.0
+miRNAs-Granulocyte 0.1
+Tumor regression-Promoter -1.0
+Occur-Selection -1.0
+G1 Arrest-Mammalian Cell -1.0
+G2/M Arrest-Papillary Thyroid Carcinoma -1.0
+CERVICAL CANCER-IRS-1 -1.0
+Breast Cancer--- Lung Cancer 0.0
+GATA2-LATS -1.0
+GATA2-GTP -1.0
+Necrotic-Caspase Inhibitors -1.0
+KRAS G12D-KRAS -1.0
+Show-Homolog -1.0
+FUNCTIONS OF REPRODUCTION-NH2 -1.0
+Tumor regression-Development -1.0
+CERVICAL CANCER-Show -1.0
+CERVICAL CANCER-Maturation -1.0
+study use-Carcinoma, Embryonal -1.0
+Phosphorylation-Cell Cycle 0.1429
+Tumor cells-INTERMEDIATE -1.0
+Cell Cycle Progression-localisation -1.0
+Endodermal-Maintain -1.0
+ABT-737-Resistance -1.0
+Cells-Show -1.0
+WAS-Genesis -1.0
+Phosphorylation-Maturation -1.0
+shRNA-LED -1.0
+LEAD-Chromatin Structure -1.0
+Relapsing-Pancreatic Cancer -1.0
+Drive-EGFR -1.0
+Human cells-CO -1.0
+Rest-Human cells -1.0
+Necrotic-kinase activity -1.0
+studies-Permit -1.0
+in vitro study-LED -1.0
+Binding-ATP-dependent chromatin remodeling -1.0
+IDH-Metabolite -1.0
+Human-CO 0.0625
+Cell Growth-Tumorigenesis -1.0
+Carbon-Synthetic -1.0
+Papillary Carcinoma of the Thyroid-Stimulated -1.0
+bcl-xL-Pathway -1.0
+strategies-Sequence -1.0
+Tumor Suppressor Proteins-ligase inhibitor -1.0
+Breast Cancer-Breast Cancer Cell -1.0
+lung tumors-LOX -1.0
+Tumor regression-Enhance -1.0
+Development-P53 -1.0
+Oct-4-CO -1.0
+P53-Genotoxic Stresses -1.0
+Phosphorylation-Cyclin-D1 -1.0
+Human-ACT -1.0
+Drug Resistance-Patients 0.125
+Host Defense-DEATH -1.0
+necroptosis-Necrotic -1.0
+NSCLC-Either -1.0
+look-striking -1.0
+Mice-HOPX -1.0
+Response-LATS2 -1.0
+Relapsing-Carcinoma, Thyroid -1.0
+Cell Cycle Arrest-INK4a -1.0
+CERVICAL CANCER-Identified -1.0
+Tumor cells-AKT -1.0
+BE-Examined -1.0
+EC Cell-SEQUENCING -1.0
+metastasis-INSULIN RECEPTOR SUBSTRATE 1 -1.0
+Human-RB1 0.0588
+Micro-tubule-Promote -1.0
+Account #-LABORATORY 0.0
+IDH1 Mutation-Redundant -1.0
+TREAT-Defined -1.0
+GATA2-Checkpoint -1.0
+-- Prostate Cancer-LATS2 0.0
+mediated-Growth arrest -1.0
+-- Lung Cancer-research data 0.0
+Roles-Show -1.0
+FUNCTIONS OF REPRODUCTION-Binding -1.0
+Haematopoiesis-Human Development 0.1111
+Kinase-play -1.0
+TAK1-depend -1.0
+lung tumors-GATA2 -1.0
+NSCLC-Reported -1.0
+Fibroblasts-Tumor Suppressor -1.0
+Adopted-Cell Differentiation -1.0
+studies-inhibitors -1.0
+miRNA-Breast Cancer Cell -1.0
+TBK1-Result -1.0
+pRB-Exhibit -1.0
+anti-apoptosis-Work -1.0
+Block-RAS -1.0
+Papillary Carcinoma of the Thyroid-overexpress -1.0
+Reported-Checkpoint -1.0
+Study-degradation of cyclin -1.0
+Reported-IDH -1.0
+Binding-PROTEINS -1.0
+Drive-research results -1.0
+Mcl-1-resistance Determinant -1.0
+Crassa-N NOS -1.0
+Affect-Homolog -1.0
+Researchers-Fulfill -1.0
+HeLa-HeLa Cells -1.0
+Motif-Reported -1.0
+Host Defense-Necrotic -1.0
+Tumors-Inhibiting -1.0
+Human-90% -1.0
+Electroporation-SDS PAGE -1.0
+TET2-Lanugo -1.0
+play-RB1 -1.0
+hTERT-Signaling Molecule -1.0
+Related-TREAT -1.0
+Carrying-Show -1.0
+Clarify-Myelopoiesis -1.0
+Telophase-Consideration -1.0
+Oct-4-ANALYSIS -1.0
+roscovitine-Model System -1.0
+pRB-Senescence -1.0
+Regression-Cytotoxic -1.0
+FUNCTIONS OF REPRODUCTION-Cyclin-D1 -1.0
+Mcl-1-Model System -1.0
+Tumors-research results -1.0
+KRAS-HOPX -1.0
+Roles-Cell Cycle 0.1
+Production-Promoter -1.0
+Micro-tubule-miRNA -1.0
+Mcl-1-Lanugo -1.0
+Cell types-Scientific -1.0
+Tumors-Epigenetic -1.0
+Differentiation-POU5F1 -1.0
+Granulopoiesis-System -1.0
+Cyclin-Dependent Kinases-RAS -1.0
+Show-Human Development -1.0
+ESC-Transcripts -1.0
+Drive-Cell Growth -1.0
+Rest-Oncogene 0.0714
+Reported-Activities -1.0
+Mammalian-PROTEINS -1.0
+play-90% -1.0
+Chips-Embryoid Bodies -1.0
+signalling-D1 -1.0
+Tumors--- Lung Cancer 0.0
+Affect-N NOS -1.0
+RNA Interference-inhibitors -1.0
+Affect-Consideration -1.0
+NSCLC-human cell lines -1.0
+Epigenetic Change-Development -1.0
+research results-research data -1.0
+CERVICAL CANCER-CDK5RAP2 -1.0
+shRNA-commitment -1.0
+Translational Repression-RNA -1.0
+Oct-4-Transcripts -1.0
+TISSUE-cumulative gene -1.0
+Selection-Development -1.0
+P53-Fibroblasts 0.0909
+Occur-Survey -1.0
+System-All-trans Retinoic Acid -1.0
+Activate-Proteolysis -1.0
+Progenitor-Maintain -1.0
+Chemical-kinase activity -1.0
+Progression-N NOS -1.0
+Phosphorylation Site-Study -1.0
+State-Cell Proliferation -1.0
+Growth arrest-Result -1.0
+Examined-N NOS -1.0
+IDH1-IDH -1.0
+Growth arrest-Oncogenes -1.0
+Tumor regression-Oncogens -1.0
+Cyclin-Dependent Kinase Inhibitor-ABT-737 -1.0
+Phosphorylation-APC 0.1111
+Tumors-fight -1.0
+Pathways-Reported -1.0
+Chemical-RIPK3 -1.0
+HeLa-Protein Expression -1.0
+Chemical-RIPK1 -1.0
+Entry-Promote -1.0
+Roles-LATS1 -1.0
+Mutant-Agent -1.0
+pRB-Gene Mutation -1.0
+EC Cell-qRT-PCR -1.0
+P53-studies -1.0
+localisation-PLK1 -1.0
+Promote-Ectodermal -1.0
+telomerase activity-Cell metabolism -1.0
+Human cells-Transfection -1.0
+Cells-Checkpoint -1.0
+Tumor cells-NSCLC -1.0
+Oct-4-VARIOUS -1.0
+ABLATION-GATA2 Transcription Factor -1.0
+TREAT-Viability, Cell -1.0
+mir-223-Myelopoiesis -1.0
+Mcl-1-PROTEIN -1.0
+Host Defense-caspase activity -1.0
+Cancer-Proteolysis -1.0
+Tumors-neoplastic transformation -1.0
+GATA2-Protein A -1.0
+Related-Pathways -1.0
+PC9-NDEL1 0.0
+Tumors-Individual -1.0
+Senescence-Alone -1.0
+Granulopoiesis-ANIMAL -1.0
+telomerase activity-Cell Growth -1.0
+Comparison-Lethal -1.0
+GATA2-Functional Component -1.0
+Mcl-1-Cyclin-Dependent Kinase Inhibitor -1.0
+OVARIAN CANCER-P53 0.1667
+Oct-4-Renilla -1.0
+inhibitors-Caspase 8 gene -1.0
+telomerase activity-Hallmark Cell -1.0
+TET2 Gene-Study -1.0
+KRAS-TREAT -1.0
+Entry-Cancer -1.0
+studies-Embryonic Stem Cells -1.0
+look-GTP -1.0
+Micro-tubule-Cell Proliferation -1.0
+signalling-Ionising radiation -1.0
+Mouse, NOS-UTR -1.0
+Breast Cancer-Tumors 0.5
+KRAS-Defined -1.0
+GATA2-Anaphase Promoting Complex -1.0
+Cells-Phenomena -1.0
+Take-Skin -1.0
+Trigger-APC -1.0
+Catalytic-IDH1 Gene Mutation -1.0
+Interest-RAS -1.0
+strategies-Mutation -1.0
+Pancreatic Cancer-LATS2 -1.0
+DNA hypermethylation-Enzymatic Activity -1.0
+Bcl-2-solid tumors -1.0
+NIH 3T3 Cells-Result -1.0
+RIP1-RIP 1.0
+ANALYSIS-Embryoid Bodies 0.1
+TISSUE-EVENTS -1.0
+MDM2-Fibroblasts -1.0
+Myeloid Differentiation-studies -1.0
+Development-CYCLIN E -1.0
+Genes-Transcripts -1.0
+FUNCTIONS OF REPRODUCTION-Stress -1.0
+Reported-Tumors -1.0
+TRAF6-Sporadic -1.0
+Aurora-A kinase-Maturation -1.0
+ACUTE MYELOGENOUS LEUKEMIA-TET2 Gene -1.0
+Show-specific -1.0
+Primitive-tumor growth -1.0
+Tumor Suppressor Proteins-TUMOR 0.125
+AML-Clarified -1.0
+UP-Tissues -1.0
+TET2-IDH1 Gene Mutation -1.0
+signalling-Responsible -1.0
+KRAS-Either -1.0
+MICROARRAY-cells differentiation -1.0
+solid tumors-FAMILY MEMBER -1.0
+Cell Cycle Arrest-Rodent -1.0
+SWI-PROTEINS -1.0
+Mouse, NOS-Microarray Analysis -1.0
+Identified-Clear cell Kidney Cancer -1.0
+Haematopoiesis-Show -1.0
+Wild Type-inhibitors -1.0
+Phosphorylation-PLK1 -1.0
+Breast Cancer-LATS2 -1.0
+Plays-Maturation -1.0
+Mice-Viability, Cell 0.0667
+CERVICAL CANCER-Regulation -1.0
+Transcriptional Networks-Point A -1.0
+Promote-Stem Cells -1.0
+Mutations-IDH1 Gene Mutation -1.0
+TAK1-Tumor cells -1.0
+Show-D1 -1.0
+Lethal-GTP 0.0769
+inhibitors-Process -1.0
+Regulated-ATP-dependent chromatin remodeling -1.0
+RIP3-Homologous Sequences -1.0
+IDH-Promoter -1.0
+Account #-Drive 0.0
+Tumorigenesis-studies -1.0
+Tet-Regulation -1.0
+miRNA-Reports -1.0
+Breast Cancer-Cervical Squamous Cell Carcinoma -1.0
+Proteolysis-RAS -1.0
+strategies-Permit -1.0
+model-Promoter -1.0
+KRAS-Researchers -1.0
+LEAD-Oncogens 0.1111
+Necrotic-ABLATION -1.0
+-- Leukemia--- Lung Cancer 0.0
+Human cells-TUMOR TISSUE -1.0
+Breast Cancer-Show -1.0
+Cells-Activities -1.0
+PPP-AS gene -1.0
+HeLa-SDS PAGE -1.0
+Show-Kinase -1.0
+GATA2-Tumorigenesis -1.0
+Cultured Cells-Cell Cycle 0.125
+virus infection-inhibitors -1.0
+Nuclear Matrix-VARIOUS -1.0
+Actin-SWI -1.0
+Myelopoiesis-Characterized -1.0
+IDH2 Gene-Genomic -1.0
+Transcriptional Networks-Reagent -1.0
+Promote-Differentiation -1.0
+STK33-Tumor cells -1.0
+Roles-Homologous -1.0
+KRAS G12D-Drive -1.0
+Cyclin-D1-Skin -1.0
+Mutant-Show -1.0
+Drive-Cells 0.1429
+bcl-xL-inhibitors -1.0
+IDH1 Mutation-Show -1.0
+Inhibition-Mutation 0.1111
+ABLATION-Enhance -1.0
+Branch-AS gene -1.0
+Crassa-Progression -1.0
+roscovitine-ABT-737 -1.0
+Cancer-Cell Growth -1.0
+WAS-Gene Mutation -1.0
+inhibitors-Viability, Cell -1.0
+in vitro study-Differentiation -1.0
+Represent-Excite -1.0
+Tissues-E2F-1 -1.0
+EGFR-Show -1.0
+Regulation-Regulated -1.0
+Mutant-Kinase -1.0
+Human-SEQUENCING -1.0
+PROTEIN-ACUTE MYELOGENOUS LEUKEMIA -1.0
+STK33-Protein A -1.0
+GATA2-Mutation -1.0
+BAF53-Complexes -1.0
+KRAS-Reported -1.0
+STANDING-Excite -1.0
+P53-Tissues 0.1111
+Occur-Mutations -1.0
+TET2-Clarified -1.0
+Cells-NDEL1 -1.0
+cRaf-Drive -1.0
+Take-Signaling Molecule -1.0
+AN-Cancer -1.0
+State-MIR-145 -1.0
+KRAS-Fulfill -1.0
+STK33-Permit -1.0
+Caco-2 Cells-VARIOUS -1.0
+Identified-Carcinoma, Thyroid -1.0
+Mesodermal-Transcript -1.0
+Malignant-Advance -1.0
+Senescence-Activated -1.0
+Ectodermal-Pluripotent Stem Cell -1.0
+regulation of ribosome biogenesis-E2F-1 -1.0
+RIP3-RIP -1.0
+Micro-tubule-cervical cells -1.0
+Cancer-Immortalized -1.0
+Tumor regression-GATA2 Transcription Factor -1.0
+TISSUE-Phenotype 0.1667
+Regulation-LATS2 -1.0
+model-Development -1.0
+localisation-CDK5RAP2 -1.0
+Identified-Oncogene -1.0
+Signaling Pathways-TREAT -1.0
+Activate-Genotoxic Stresses -1.0
+Phosphorylation-LATS2 -1.0
+Examined-Wild Type -1.0
+Phosphorylation-LATS1 -1.0
+Viability, Cell-LATS 0.0769
+UP-Regulation -1.0
+MCF-VARIOUS -1.0
+Reported-Work -1.0
+EGFR-Functional Component -1.0
+Malignant-STANDING -1.0
+Cyclin-D1-D1 -1.0
+Report-Cell Growth -1.0
+Represent-cumulative gene -1.0
+KRAS-Mice -1.0
+Viability, Cell-Functional Component -1.0
+Progenitor-POU5F1 -1.0
+Lethal-Result -1.0
+Proteasome-TRAF6 0.0909
+Mcl-1-bcl-xL -1.0
+Embryonal Carcinoma Cell-Cell types -1.0
+KRAS-Library -1.0
+Viability, Cell-centrosomin -1.0
+GATA6-Activities -1.0
+Aurora-A kinase-CDK5RAP2 -1.0
+Examined-localisation -1.0
+DNA hypermethylation-IDH1 Gene Mutation -1.0
+Take-Study -1.0
+Report-Block -1.0
+shRNA-Lanugo -1.0
+Related-Researchers -1.0
+WT1-inhibitors -1.0
+Expression Profiling-cells differentiation -1.0
+GATA2-Cell Growth -1.0
+Mutation-Result -1.0
+Human Development-Mouse, NOS -1.0
+used-Screen -1.0
+Production-Phenotype -1.0
+HOPX-Functional Component -1.0
+CERVICAL CANCER-Stimulated -1.0
+Catalytic-Carrying -1.0
+Activated-Cellular Stress Response -1.0
+Tumor Suppressor Proteins-P14 -1.0
+Tumor Suppressor Proteins-P19 -1.0
+Mouse, NOS-TUMOR TISSUE -1.0
+Represent-Drug Discovery -1.0
+Regulated-Transcripts -1.0
+compromise-RIPK1 -1.0
+compromise-RIPK3 -1.0
+P53-Genotoxic Stress -1.0
+Oct-4-study use -1.0
+Adopted-Study -1.0
+Activated-Result -1.0
+Alone-research results -1.0
+Promote-Pluripotent Stem Cell -1.0
+APC-Proteolysis 0.1111
+Drive--- Lung Cancer 0.0
+Cancer-Gene Mutation -1.0
+Tissues-MDM2 -1.0
+Proteolysis-Fibroblasts 0.1111
+Computational-MIR-21 -1.0
+Show-Mice -1.0
+DNA hypermethylation-Phenotype -1.0
+Ectodermal-POU5F1 -1.0
+lung tumors-virus -1.0
+MICROARRAY-Carcinoma, Embryonal -1.0
+20%-AS gene -1.0
+studies-Contribute -1.0
+Expression Profiling-DATA SET -1.0
+Oct-4-TUMOR TISSUE -1.0
+Primitive-Pluripotent Stem Cell -1.0
+Progression-play -1.0
+TREAT-EGFR -1.0
+Block-Fibroblasts -1.0
+Ubiquitination-APC 0.1
+DEATH-necrotic cell death -1.0
+Chromatin-VARIOUS -1.0
+hTERT-AKT -1.0
+Mouse, NOS-Embryoid Bodies -1.0
+HOPX-PROTEINS -1.0
+Actin-Mammalian -1.0
+inhibitors-ABLATION -1.0
+TAK1-Protein A -1.0
+Drive-STANDING -1.0
+TREAT-Protein A -1.0
+Identified-depend -1.0
+Interest-Development -1.0
+Cells-striking -1.0
+KRAS-Development -1.0
+studies-Tet -1.0
+transcription factor Nuclear Factor I-Regulated -1.0
+TREAT-GATA6 -1.0
+Cell Cycle Arrest-Growth arrest -1.0
+Chips-Carcinoma, Embryonal -1.0
+Activated-TERM -1.0
+Differentiation-Chromatin Structure -1.0
+Senescence-RAS -1.0
+TAK1-inhibitors -1.0
+Differentiated-cells differentiation -1.0
+STK33-Result -1.0
+Elimination-fight -1.0
+Transcriptional Networks-Plasmid 0.2
+GATA2-Show -1.0
+Development-Thought -1.0
+inhibitors-Show -1.0
+pRB-Tumor Suppressor Proteins -1.0
+Identified-Head -1.0
+Micro-tubule-Cancer -1.0
+study use-Embryonic Stem Cells -1.0
+NSCLC-Anaphase Promoting Complex 0.0833
+Breast Cancer-Pancreatic Cancer 0.3333
+Mutations-Regulation -1.0
+KRAS-Cell Growth -1.0
+Fibroblasts-RAS -1.0
+Progenitor-Plays -1.0
+EVENTS-Signaling Molecule -1.0
+Interest-LUNG TUMOR -1.0
+Relapsing-Cervical Squamous Cell Carcinoma -1.0
+Reported-PROTEINS -1.0
+Bcl-2-derivatives -1.0
+Adenocarcinoma of the Lung-GATA2 Transcription Factor -1.0
+Genes-Published -1.0
+Cell Cycle Arrest-LEAD -1.0
+Ras proteins-State -1.0
+Either-GATA2 -1.0
+pRB-P19 -1.0
+Necrotic-Caspase 8 gene -1.0
+Catalytic-Lead 2+ 0.0
+studies-Pathway -1.0
+pRB-P14 -1.0
+Detected-PLK1 -1.0
+KRAS-Protein A -1.0
+Researchers-EGFR -1.0
+mir-223-Selected -1.0
+Chromatin-ATP-dependent chromatin remodeling -1.0
+Breast Cancer-Clear cell Kidney Cancer -1.0
+studies-Inhibiting -1.0
+ABT-737-Block -1.0
+mir-223-Work -1.0
+MDM2-INK4a -1.0
+LEAD-RAS -1.0
+Adenocarcinoma of the Lung-Enhance -1.0
+Cultured Cells-Homologous -1.0
+Like-Oncogenes -1.0
+Ionising radiation-Genotoxic Stresses -1.0
+Clarify-Mice -1.0
+Oct-4-Transfection -1.0
+Adopted-ATRA -1.0
+Mutations-Carrying -1.0
+Human-qRT-PCR -1.0
+ABLATION-RAS -1.0
+Very Important-research data -1.0
+studies-Tumor cells -1.0
+Block-Oncogens -1.0
+Identified-Defined -1.0
+-- Leukemia-Pancreatic Cancer 0.0
+Caco-2 Cells-HeLa Cells 0.3333
+Oct-4-Reports -1.0
+bcl-xL-Defined -1.0
+in vitro study-mediated -1.0
+MDM2-Oncogens -1.0
+Production-2-HG -1.0
+MCF-MCF7 -1.0
+Ras proteins-RAS -1.0
+Tumor Suppressor Proteins-MDM2 -1.0
+Report-Show -1.0
+Carbon-Lethal 0.0909
+Alone--- Lung Cancer 0.0
+GATA6-Functional Component -1.0
+Take-AKT -1.0
+Proteasome-Development -1.0
+Production-Catalytic -1.0
+-- Lung Cancer-Process 0.0
+CERVICAL CANCER-overexpress -1.0
+Epigenetic-Process -1.0
+Regulated-Companions -1.0
+TRANSCRIPTION FACTOR-LUNG TUMOR -1.0
+Occur-Clarified -1.0
+Deletion-Consideration -1.0
+Immortalized-AKT -1.0
+Chips-cells differentiation -1.0
+Human-Reported -1.0
+Expression Profiling-Embryoid Bodies -1.0
+Senescence-Oncogens -1.0
+Mutant-GTP -1.0
+Researchers-HOPX -1.0
+Phenomena-Phenotype -1.0
+Differentiation-Transcript -1.0
+KRAS-GATA2 -1.0
+Oncogens-NSCLC 0.0833
+RAS-STANDING -1.0
+KRAS-GATA6 -1.0
+Library-Fulfill -1.0
+cancer screen-inhibitors -1.0
+GATA2-striking -1.0
+LEAD-tumor growth -1.0
+RIP3-Mediate -1.0
+Rest-Malignant -1.0
+Progenitor Cell proliferation-Differentiation -1.0
+RAS-fight -1.0
+Feedback-miRNA 0.0909
+GATA6-PROTEINS -1.0
+Mutation-striking -1.0
+KRAS-Kinase -1.0
+P53-Oncogens 0.0833
+TET2 Gene-IDH1 -1.0
+Bcl-2-bcl-xL -1.0
+mir-223-Cells -1.0
+Tumors-Very Important -1.0
+Response-Stimulated -1.0
+Identified-Result -1.0
+Cyclin-Dependent Kinase Inhibitor-ACUTE MYELOGENOUS LEUKEMIA -1.0
+Breast Cancer-Identified -1.0
+TET2-commitment -1.0
+TBK1-Tumor cells -1.0
+Actin-Nuclear Matrix 0.0667
+NSCLC-Responsible -1.0
+Pathways-Cells -1.0
+Translational Repression-Translational -1.0
+IDH2 Gene-Tet -1.0
+therapeutics-Tumor cells -1.0
+Monitor-Block -1.0
+IDH1-ENZYMES -1.0
+EC Cell-UTR -1.0
+Show-lead increased -1.0
+Take-APC -1.0
+Agent-Result -1.0
+telomerase activity-Cell Survival -1.0
+studies-Proteolysis -1.0
+Host Defense-inhibitors -1.0
+Mediate-Reported -1.0
+Mouse, NOS-Oncogens -1.0
+LEAD-Transcript -1.0
+Oncogens-RAS -1.0
+Mcl-1-solid tumors -1.0
+Adopted-Regulation -1.0
+Reported-Carrying -1.0
+Non-Small Cell Lung Cancer-Show -1.0
+Transcriptional Networks-Up-Regulation 0.1429
+NSCLC-GATA2 -1.0
+NSCLC-Wild Type -1.0
+NSCLC-GATA6 -1.0
+bcl-xL-Cytotoxic -1.0
+Reported-DNA hypermethylation -1.0
+Clarify-Human Development -1.0
+Kinase-localisation -1.0
+NSCLC-HOPX -1.0
+miRNA-HEPATOCELLULAR CARCINOMA 0.1111
+Comparison-GATA2 -1.0
+GATA2-Development -1.0
+RNA Interference-Pathway -1.0
+Murine-DATA SET -1.0
+Affect-play -1.0
+KRAS-Cells -1.0
+Phenomena-TUMORIGENICITY -1.0
+20%-KRAS -1.0
+Cells-Thought -1.0
+Proteolysis-Oncogens 0.1
+Mutations-Enzymatic Activity -1.0
+WT1-Defined -1.0
+BE-Drug Resistance -1.0
+Mammalian-Complexes -1.0
+Tumor cells-Cell Survival -1.0
+Cancer-Models -1.0
+STK33-Defined -1.0
+AML-IDH1 -1.0
+Centrosomes-Work 0.0769
+Reports-Translational -1.0
+FUNCTIONS OF REPRODUCTION-Response -1.0
+G2/M Transition-Cell Cycle -1.0
+System-Work -1.0
+Process-Scientific -1.0
+Cells-look -1.0
+Mutant-Advance -1.0
+State-MIR-21 -1.0
+Differentiated-Differentiation -1.0
+therapeutics-Cytotoxic -1.0
+Cell types-studies -1.0
+GATA2-Drive -1.0
+Inhibiting-Regulation -1.0
+Selected-Granulocyte -1.0
+System-Cells -1.0
+STK33-Pathway -1.0
+Thought-90% -1.0
+Transformation-cervical cancers -1.0
+EVENTS-lead increased -1.0
+Leukemic Cells-Enzymatic Activity -1.0
+Phosphorylation-Plays -1.0
+Drive-Anaphase Promoting Complex 0.1
+Tissues-Ubiquitin 0.125
+these-Pathway -1.0
+Thought-RB1 -1.0
+Breast Cancer-P53 0.1667
+regulation of ribosome biogenesis-Ubiquitin -1.0
+20%-LABORATORY -1.0
+TET1-ENZYMES -1.0
+WAS-Tet -1.0
+Granulopoiesis-miRNA -1.0
+Differentiation-Maintain -1.0
+strategies-Anaphase Promoting Complex -1.0
+Oncogens-Drive 0.1
+Oct-4-Repression -1.0
+AML-ACUTE MYELOGENOUS LEUKEMIA 1.0
+KRAS-Mutant -1.0
+OVARIAN CANCER-overexpress -1.0
+Cancer-Development -1.0
+TET2 Gene-Scale -1.0
+Reported-Phenotype -1.0
+Repression-Tumors 0.1429
+Breast Cancer-Reports -1.0
+ESC-Cell types -1.0
+NSCLC-Cells 0.1111
+Oct-4-POU5F1 -1.0
+inhibitors-HOPX -1.0
+CERVICAL CANCER-localisation -1.0
+play-Gene Mutation -1.0
+Oct-4-Chromatin Structure -1.0
+Show-Proteolytic -1.0
+Embryonal Carcinoma Cell-cells differentiation -1.0
+Proteasome-bind -1.0
+Adopted-NB4S -1.0
+apoptotic cell death-Papillary Thyroid Carcinoma -1.0
+Activated-Cells -1.0
+compromise-Process -1.0
+Ubiquitination-Proteolytic -1.0
+Human Development-Human 0.0667
+Ubiquitination-D1 -1.0
+Tumor cells-Mice -1.0
+Take-INTERMEDIATE -1.0
+Feedback-ANIMAL 0.1111
+Mesodermal-tumor growth -1.0
+Caveat-Excite -1.0
+Like-Cellular Stress Response -1.0
+Mutant-Mutation -1.0
+cancer screen-Tumor cells -1.0
+Phosphorylation-Cultured Cells 0.125
+Comparison-Synthetic -1.0
+KRAS-Identified -1.0
+RAS-Represent -1.0
+GATA2-HOPX -1.0
+cRaf-KRAS G12D -1.0
+inhibitors-Cells -1.0
+Mutant-Screen -1.0
+Cell Growth-Process -1.0
+Show-KRAS -1.0
+Monitor-Cell Growth -1.0
+Development-TISSUE -1.0
+G1 Arrest-Activate -1.0
+Thought-Gene Mutation -1.0
+Murine-Embryoid Bodies -1.0
+Oct-4-Progenitor -1.0
+Centrosomes-LATS1 -1.0
+-- Leukemia-COLON CANCER 0.0
+-- Lung Cancer-Excite 0.0
+Phosphorylation-Homologous -1.0
+studies-TET1 -1.0
+mir-223-miRNA -1.0
+Cancer-KRAS -1.0
+Granulocyte-Characterized -1.0
+Selected-Human Development -1.0
+Difference stage-DATA SET -1.0
+Cancer-Retinoblastoma -1.0
+Ionising radiation-Show -1.0
+lung tumors-CRE -1.0
+Comprise-Feedback -1.0
+Wild Type-Mice -1.0
+PPP-Drive 0.1
+Agent-GTP -1.0
+Progression-Advance -1.0
+Show-Telophase -1.0
+Tumor cells-Regulated -1.0
+Researchers-Show -1.0
+TET2-Mutations -1.0
+Subunit-Related -1.0
+fight-Excite -1.0
+KRAS-Related -1.0
+Identified-Ionising radiation -1.0
+DEATH-Caspase 8 gene -1.0
+Primitive-Plays -1.0
+Resistance-FAMILY MEMBER -1.0
+Examined-play -1.0
+Show-Anaphase -1.0
+Occur-TUMORIGENICITY -1.0
+Reported-Leukemic Cells -1.0
+SWI-Complexes -1.0
+Tissues-Aurora-A -1.0
+Mcl-1-Resistance -1.0
+KRAS-RNAi -1.0
+Subunit-PROTEINS -1.0
+Ras proteins-Cultured Cells 0.1
+CERVICAL CANCER-P53 0.1667
+Epigenetic Change-Process -1.0
+Breast Cancer-overexpress -1.0
+Tumor Suppressor-Small Cell Lung Cancers -1.0
+STK33-depend -1.0
+Viability, Cell-Activities -1.0
+Show-Study -1.0
+Examined-model -1.0
+ES-Up-Regulation 0.1111
+miRNA-CHRONIC LYMPHOCYTIC LEUKEMIA 0.1111
+Drive-Viability, Cell 0.1111
+caspase activity-RIPK1 -1.0
+caspase activity-RIPK3 -1.0
+P53-Growth arrest -1.0
+TET1-Contribute -1.0
+Mutant-Wild Type -1.0
+Reported-IDH1 Gene Mutation -1.0
+Cells-Epigenetic -1.0
+Tumor Suppressor Proteins-Genesis -1.0
+DNA hypermethylation-IDH2 -1.0
+cancer cells-NH2 -1.0
+studies-Result -1.0
+Human cells-Plasmid -1.0
+Take-D1 -1.0
+Chemical-Caspase 8 gene -1.0
+Examined-aggressive -1.0
+Crassa-localisation -1.0
+WAS-Mouse, NOS -1.0
+Mutant-Either -1.0
+Senescence-Gene Expression -1.0
+PROTEIN-Model System -1.0
+P53-INK4a -1.0
+inhibitors-RIPK3 -1.0
+inhibitors-RIPK1 -1.0
+Cell Growth-Checkpoint -1.0
+Relapsing-Tumors -1.0
+Erythropoiesis-Human Development 0.1
+fight-research data -1.0
+Cell Lines-Synthetic -1.0
+Human-Cells 0.0714
+IDH-cervical cancers -1.0
+Study-D1 -1.0
+Represent-TISSUE -1.0
+Identified-IRS-1 -1.0
+Selection-Process -1.0
+Work-Line -1.0
+Regulation-Line -1.0
+Caco-2 Cells-SDS PAGE -1.0
+Cells-TISSUE 0.3333
+FUNCTIONS OF REPRODUCTION-Sequence -1.0
+GATA2-Oncogens -1.0
+Production-Enzymatic Activity -1.0
+Account #-GATA2 0.0
+IDH2 Gene-Inhibiting -1.0
+cancer cells-Cyclin-D1 -1.0
+Tumors-Tumor specimens -1.0
+Transcriptional Network-Cells 0.1111
+Actin-BAF53 -1.0
+GATA2-TREAT -1.0
+Tumors-Phenomena -1.0
+Caco-2 Cells-Western Blotting 0.1111
+HOPX-Checkpoint -1.0
+MIR-21-Target site -1.0
+Signaling Pathways-Regulated -1.0
+TET2-DNA hypermethylation -1.0
+Phosphorylation Site-THREONINE -1.0
+CERVICAL CANCER-LYMPHOMA 0.3333
+LEAD-TRAF6 0.0909
+Regulation-PLK1 -1.0
+Comparison-Models -1.0
+Oncogens-c-Raf -1.0
+Papillary Carcinoma of the Thyroid-Absence -1.0
+studies-IDH1 -1.0
+ANALYSIS-Carcinoma, Embryonal 0.1429
+Primitive-POU5F1 -1.0
+Mice-GATA6 -1.0
+Process-Understand -1.0
+KRAS-Viability, Cell -1.0
+System-NB4S -1.0
+Repression-Gene Mutation -1.0
+20%-GATA2 -1.0
+P53-Cancer -1.0
+studies-Mutations -1.0
+PC9-localisation 0.0
+RAS-Cellular Stress Response -1.0
+Ionising radiation-Activate -1.0
+HeLa-VARIOUS -1.0
+Activated-State -1.0
+NSCLC-Show -1.0
+Nuclear Matrix-PROTEINS 0.0833
+RAS-research results -1.0
+Phosphorylation-G2/M Transition -1.0
+Immortalized-Cell Growth -1.0
+Centrosomes-Cancer -1.0
+Differentiated-Chips -1.0
+Transcriptional Network-Anaphase Promoting Complex 0.0833
+ESC-Published -1.0
+KRAS-Agent -1.0
+IDH2 Mutation-Tet -1.0
+Cells-Aurora-A -1.0
+Catalytic-IDH1 Mutation -1.0
+Human-Point A -1.0
+Oncogene-Human cells -1.0
+Tissues-ligase inhibitor -1.0
+inhibitors-Caspase Inhibitors -1.0
+Reported-Enzymatic Activity -1.0
+Selected-Show -1.0
+Identified-Researchers -1.0
+Cancer-Reported -1.0
+Drive-fight -1.0
+Repression-TUMOR 0.1429
+research results-Process -1.0
+Alone-STANDING -1.0
+Promote-tumor growth -1.0
+CERVICAL CANCER-HEPATOCELLULAR CARCINOMA 0.3333
+Cyclin-Dependent Kinases-Growth arrest -1.0
+Binding-Absence -1.0
+TREAT-HOPX -1.0
+Cyclin-Dependent Kinases-LEAD 0.1111
+Mouse, NOS-LUNG TUMOR -1.0
+WAS-ENZYMES 0.125
+studies-Protein A -1.0
+Agent-Protein A -1.0
+RIP1-Motif -1.0
+Anaphase-Consideration -1.0
+MIR-21-Screen -1.0
+Mouse, NOS-Repression -1.0
+Show-Skin -1.0
+Progenitor Cell proliferation-used -1.0
+Plays-Homologous -1.0
+Mutant-Represent -1.0
+ACUTE MYELOGENOUS LEUKEMIA-IDH2 Gene -1.0
+Centrosomes-Cell Lines 0.1
+RNAi-Fulfill -1.0
+Erythropoiesis-Myelopoiesis 0.25
+Binding-Complexes -1.0
+Advance-Excite -1.0
+Thought-Phenotype -1.0
+miRNA-INSULIN RECEPTOR SUBSTRATE 1 -1.0
+EC Cell-Point A -1.0
+IDH-Block -1.0
+Cyclin-D1-THREONINE -1.0
+Trigger-Reported -1.0
+used-algorithm -1.0
+ACUTE MYELOGENOUS LEUKEMIA-IDH1 Mutation -1.0
+WAS-Retinoblastoma 0.1667
+DEATH-Process -1.0
+CCAAT Enhancer Binding Protein-Regulated -1.0
+Human-Cancer -1.0
+RAS Oncogene-degradation of cyclin -1.0
+Roles-Mice 0.0625
+TRAF6-virus 0.1
+Mice-Mouse, NOS -1.0
+KRAS-Wild Type -1.0
+Mcl-1-therapeutics -1.0
+CERVICAL CANCER-Regulated -1.0
+Leukemic Cells-Phenotype -1.0
+Phosphorylation-Skin 0.125
+bcl-xL-FAMILY MEMBER -1.0
+telomerase activity-lead increased -1.0
+Ectodermal-Stem Cells -1.0
+mek-Protein A -1.0
+BAF53-ATP-dependent chromatin remodeling -1.0
+Cancer-serine/threonine-protein kinase -1.0
+Subunit-Complexes -1.0
+-- Leukemia-Head 0.0
+Signaling Pathways-inhibitors -1.0
+PC9-Functional Component 0.0
+Tissues-PLK1 -1.0
+NIH 3T3 Cells-Oncogenes 0.0667
+pRB-play -1.0
+HeLa-MCF7 -1.0
+Thought-cumulative gene -1.0
+Breast Cancer-Oncogene 0.0833
+EC Cell-Renilla -1.0
+Differentiated-Murine -1.0
+Identified-Permit -1.0
+Differentiated-Difference stage -1.0
+PC9-PROTEINS 0.0
+Progenitor-Stem Cells -1.0
+Mouse, NOS-Promoter -1.0
+CERVICAL CANCER-Detected -1.0
+Signaling Pathways-Drive -1.0
+ANALYSIS-DATA SET 0.125
+Senescence-Fibroblasts -1.0
+Senescence-NIH 3T3 Cells -1.0
+Breast Cancer-CYCLIN E 0.1
+lung tumors-Lung Infection -1.0
+Oct-4-Embryonal Carcinoma Cell -1.0
+Drive-Advance -1.0
+Tissues-Regulated -1.0
+GATA2-Process -1.0
+Comprise-transcription factor Nuclear Factor I -1.0
+localisation-Maturation -1.0
+Senescence-Cells -1.0
+Identified-Breast Cancer Cell -1.0
+GATA2-inhibitors -1.0
+Difference stage-Cell types -1.0
+NF1-transcription factor Nuclear Factor I -1.0
+kill-Result -1.0
+caspase activity-Caspase 8 gene -1.0
+RAS Oncogene-Ionising radiation -1.0
+Actin-ATP-dependent chromatin remodeling -1.0
+Tumorigenesis-Understand -1.0
+Genotoxic Stress-Genotoxic Stresses 1.0
+Senescence-Oncogenes -1.0
+Wild Type-Pathways -1.0
+Cell Cycle Arrest-RAS -1.0
+EGFR-Tumorigenesis -1.0
+Embryonal Carcinoma Cell-VARIOUS -1.0
+Regulated-Complexes -1.0
+TRAF6-LOX -1.0
+P53-P14 -1.0
+Oct-4-qRT-PCR -1.0
+Interest-Oncogens -1.0
+Differentiation-Plays -1.0
+ES-Renilla 0.0909
+P53-P19 -1.0
+Cancer-P14 -1.0
+Mouse, NOS-Transfection -1.0
+CERVICAL CANCER--- Leukemia 0.0
+strategies-Degraded -1.0
+Mcl-1-Regression -1.0
+Alone-Very Important -1.0
+TRANSCRIPTION FACTOR-Oncogens 0.125
+Expression Profiling-Embryonic Stem Cells -1.0
+Wild Type-Regulated -1.0
+Production-Carrying -1.0
+Cancer-P19 -1.0
+Occur-Thought -1.0
+Represent-Phenomena -1.0
+Proteasome-GATA2 Transcription Factor 0.1
+Aurora-A kinase-Roles 0.0833
+TET2-Survey -1.0
+GATA2-depend -1.0
+ES-Reports -1.0
+Mutant-Pathway -1.0
+mek-Mutation -1.0
+CERVICAL CANCER-CHRONIC LYMPHOCYTIC LEUKEMIA 0.3333
+TRANSCRIPTION FACTOR-RAS -1.0
+cancer cells-Stress -1.0
+Inhibition-Protein A 0.1
+CERVICAL CANCER-Human 0.0667
+Mcl-1-derivatives -1.0
+Non-Small Cell Lung Cancer-KRAS G12D -1.0
+-- Leukemia-Oncogene 0.0
+Mutant-TREAT -1.0
+Deletion-Homolog -1.0
+Lethal-striking -1.0
+Phosphorylation-Aurora-A -1.0
+ABT-737-solid tumors -1.0
+TET2-TET2 Gene -1.0
+Aurora-A kinase-PLK1 -1.0
+Regulated-Viability, Cell -1.0
+Occur-Process -1.0
+miRNAs-Show -1.0
+Adenocarcinoma of the Lung-bind -1.0
+Normal cell division-TUMORIGENICITY -1.0
+Oct-4-tumor growth -1.0
+Relapsing-Head -1.0
+Nucleotides-RNA 0.25
+Tumors-Development -1.0
+LATS2-Cell Cycle -1.0
+CERVICAL CANCER-INSULIN RECEPTOR SUBSTRATE 1 -1.0
+Proteolysis-LEAD 0.1
+Cells-Protein A 0.125
+DNA hypermethylation-IDH1 Mutation -1.0
+Pancreatic Cancer-CYCLIN E 0.1
+Proteasome-RAS -1.0
+Cultured Cells-LATS1 -1.0
+Oct-4-Chips -1.0
+Reported-Study -1.0
+Cells-LATS 0.0909
+play-Tumors -1.0
+DNA hypermethylation-Lead 2+ 0.0
+-- Prostate Cancer-Stimulated 0.0
+TREAT-Cells -1.0
+AML-Genomic -1.0
+Crassa-Affect -1.0
+necroptosis-inhibitors -1.0
+Cancer-Show -1.0
+EVENTS-Hallmark Cell -1.0
+IL1-Cells -1.0
+IDH-Carrying -1.0
+G1 Arrest-Show -1.0
+GATA2-Promoter -1.0
+Bcl-2-Block -1.0
+Genotoxic Stresses-Reported -1.0
+virus infection-compromise -1.0
+Occur-Study -1.0
+Oct-4-cells differentiation -1.0
+TBK1-Protein A -1.0
+Genes-Companions -1.0
+Retinoblastoma Protein-Retinoblastoma 1.0
+Tumor Suppressor Proteins-Retinoblastoma 0.5
+Chips-VARIOUS -1.0
+Malignant-Represent -1.0
+Aurora-A-MIR-145 -1.0
+GATA2-EGFR -1.0
+CERVICAL CANCER-Reports -1.0
+NF1-Granulopoiesis -1.0
+Relapsing-LYMPHOMA -1.0
+Anaphase-N NOS -1.0
+Tumor Suppressor-Neural Tumors -1.0
+Tumors-Tet -1.0
+Signaling Pathways-NSCLC -1.0
+ACUTE MYELOGENOUS LEUKEMIA-Reported -1.0
+Relapsing--- Lung Cancer 0.0
+Identified-Cervical Squamous Cell Carcinoma -1.0
+play-TUMOR -1.0
+strategies-Cyclin-D1 -1.0
+Embryonal Carcinoma Cell-Carcinoma, Embryonal 0.1111
+Mutant-look -1.0
+miRNA-Cervical Squamous Cell Carcinoma -1.0
+IDH2 Gene-Scale -1.0
+Haematopoiesis-Mice 0.0625
+Myeloid Differentiation-mediated -1.0
+Tumors-Advance -1.0
+RIP1-Reported -1.0
+PC9-centrosomin 0.0
+Relapsing-Human -1.0
+mir-223-Human -1.0
+Wild Type-GATA2 -1.0
+metastasis-IRS-1 -1.0
+NSCLC-EGFR -1.0
+WAS-TUMOR 0.2
+Relapsing-Breast Cancer Cell -1.0
+Adenocarcinoma of the Lung-LUNG TUMOR -1.0
+MCF-HeLa Cells -1.0
+Drive-D1 -1.0
+Crassa-Consideration -1.0
+Differentiation-DATA SET -1.0
+TET2 Gene-IDH2 Mutation -1.0
+TREAT-inhibitors -1.0
+Centrosomes-Cell Proliferation 0.0667
+Human Development-Characterized -1.0
+EC Cell-Cells -1.0
+Lesion-Reported -1.0
+Reported-Catalytic -1.0
+Wild Type-Fulfill -1.0
+Senescence-State -1.0
+Epigenetic-Phenomena -1.0
+pRB-TUMOR -1.0
+Cancer-AS gene -1.0
+Mutant-fight -1.0
+Bcl-2-therapeutics -1.0
+combinations-Cells -1.0
+strategies-depend -1.0
+Immortalized-Hallmark Cell -1.0
+Like-Result -1.0
+LATS2-MIR-145 -1.0
+Roles-Myelopoiesis 0.0769
+Proteasome-LUNG TUMOR -1.0
+TET2-Occur -1.0
+TRAF6-Tumors regression -1.0
+miRNA-Carcinoma, Thyroid 0.1111
+Identified-Protein A -1.0
+NSCLC-D1 -1.0
+RAS--- Lung Cancer 0.0
+Nuclear Matrix-Complexes -1.0
+LATS2-Cultured Cells -1.0
+Show-INTERMEDIATE -1.0
+Proliferative-Absence -1.0
+Mutation-GTP 0.0909
+Reported-NDEL1 -1.0
+TRAF6-CRE -1.0
+miRNA-Human 0.0588
+Branch-Lethal -1.0
+CERVICAL CANCER-PLK1 -1.0
+Transcriptional Networks-UTR -1.0
+IDH2 Gene-IDH2 Mutation -1.0
+OVARIAN CANCER-Absence -1.0
+LEAD-Development -1.0
+Ras proteins-Cells 0.1111
+pRB-Proteolysis -1.0
+Regulated-Reported -1.0
+pRB-MDM2 -1.0
+strategies-NH2 -1.0
+anti-apoptosis-Model System -1.0
+RAS-Advance -1.0
+BAF53-PROTEINS -1.0
+Lesion-Tumor specimens -1.0
+Oct-4-SEQUENCING -1.0
+Transcription Factors-transcription factor Nuclear Factor I -1.0
+Trigger-studies -1.0
+Cell Lines-Lethal 0.0909
+Related-inhibitors -1.0
+Mutant-NSCLC -1.0
+IL1-D1 -1.0
+Phenomena-EVENTS -1.0
+Response-P53 -1.0
+Phosphorylation Site-degradation of cyclin -1.0
+Study-Ionising radiation -1.0
+Necrotic-RIPK3 -1.0
+P53-Rodent 0.0714
+Necrotic-RIPK1 -1.0
+cRaf-Show -1.0
+EGFR-NDEL1 -1.0
+PC9-Checkpoint 0.0
+Development-Process -1.0
+solid tumors-Cytotoxic -1.0
+Mesodermal-Plays -1.0
+Mutant-Drive -1.0
+Epigenetic Change-Normal cell division -1.0
+Fibroblasts-Alone -1.0
+KRAS-depend -1.0
+Cyclin-Dependent Kinases-Rodent 0.0769
+Oct-4-UTR -1.0
+Mouse, NOS-SEQUENCING -1.0
+IDH2 Mutation-Mutations -1.0
+Haematopoiesis-Granulocyte 0.1
+RNA Interference-Tumor cells -1.0
+Breast Cancer-Stimulated -1.0
+Related-Regulated -1.0
+Mouse, NOS-Cell types -1.0
+AN-ligase inhibitor -1.0
+miRNA-Translational -1.0
+Phosphorylation-Show -1.0
+TAK1-Permit -1.0
+RAS Oncogene-D1 -1.0
+PPP-KRAS -1.0
+LATS2-Regulated -1.0
+ABT-737-Tumor cells -1.0
+ESC-Embryoid Bodies -1.0
+Plays-Roles -1.0
+Telophase-play -1.0
+inhibitors-Death Receptors -1.0
+WAS-Inhibiting -1.0
+Human cells-Point A -1.0
+HOPX-Aurora-A -1.0
+Malignant--- Lung Cancer 0.0
+look-Result -1.0
+Human-Genesis -1.0
+neoplastic transformation-TUMORIGENICITY -1.0
+Human Development-specific -1.0
+telomerase activity-serine/threonine-protein kinase -1.0
+Tumor regression-Represent -1.0
+TREAT-Mutation -1.0
+Study-Responsible -1.0
+Wild Type-Researchers -1.0
+Screen-Fulfill -1.0
+Activated-Cell Cycle -1.0
+TET2-Scale -1.0
+Examined-Consideration -1.0
+Pancreatic Cancer-Absence -1.0
+Oct-4-Mesodermal -1.0
+Difference stage-Embryonic Stem Cells -1.0
+Electroporation-Construct -1.0
+Difference stage-Embryoid Bodies -1.0
+Inhibition-Defined -1.0
+used-Target site -1.0
+Deletion-N NOS -1.0
+in vitro study-RNAi -1.0
+GATA6-centrosomin -1.0
+WT1-Result -1.0
+Nuclear Matrix-ATP-dependent chromatin remodeling -1.0
+Adopted-Promoter -1.0
+Mutation-Protein A 0.1
+Endodermal-Chromatin Structure -1.0
+CERVICAL CANCER--- Lung Cancer 0.0
+Mouse, NOS-qRT-PCR -1.0
+Report-MIR-21 -1.0
+EC Cell-Plasmid -1.0
+Tumor Suppressor Proteins-Ubiquitin 0.2
+Identified-Cells -1.0
+Growth arrest-Like -1.0
+MDM2-LEAD -1.0
+PPP-LABORATORY 0.1
+apoptotic cell death-Regulated -1.0
+Cells-TERM -1.0
+Stem-mediated -1.0
+TET2-Stem -1.0
+Expression Profiling-Carcinoma, Embryonal -1.0
+Response-CYCLIN E -1.0
+mir-223-Granulopoiesis -1.0
+caspase activity-kinase activity -1.0
+RIP1-Mediate -1.0
+Cell Cycle Progression-Homolog -1.0
+DNA hypermethylation-Carrying -1.0
+Retinoblastoma Protein-TUMOR 0.125
+Represent-neoplastic transformation -1.0
+BY-Proteolysis -1.0
+Cyclin-D1-Proteolytic -1.0
+Progenitor Cell proliferation-Lanugo -1.0
+G1 Arrest-Genotoxic Stress -1.0
+CCAAT Enhancer Binding Protein-System -1.0
+Lanugo-Work -1.0
+IDH-IDH1 Gene Mutation -1.0
+Reported-Aurora-A -1.0
+Flow-Models -1.0
+pRB-Repression -1.0
+WAS-Contribute -1.0
+apoptotic cell death-Tumor cells -1.0
+Regulation-Cells -1.0
+hTERT-Cell metabolism -1.0
+Clarify-Granulocyte -1.0
+CERVICAL CANCER-CYCLIN E 0.1
+Leukemic Cells-2-HG -1.0
+TBK1-inhibitors -1.0
+Embryonal Carcinoma Cell-DATA SET 0.0909
+Tumor cells-Pathways -1.0
+metastasis-Human 0.0625
+Entry-Work -1.0
+Host Defense-Chemical -1.0
+Activated-Fibroblasts -1.0
+Malignant-research results -1.0
+CERVICAL CANCER-Head 0.2
+Pancreatic Cancer-overexpress -1.0
+LATS2-Cell Proliferation -1.0
+Human cells-Reagent -1.0
+Tumor cells-serine/threonine-protein kinase -1.0
+DNA hypermethylation-Metabolite -1.0
+miRNA-Show -1.0
+inhibitors-PC9 0.0
+Cells-kill -1.0
+AN-Tissues 0.2
+Cyclin-D1-Genotoxic Stress -1.0
+Either-Show -1.0
+Chemical-Caspase Inhibitors -1.0
+mir-223-NB4S -1.0
+Production-IDH2 -1.0
+CERVICAL CANCER-Tissues 0.1667
+Regulation-Promoter -1.0
+IDH-Phenotype -1.0
+Cancer-MDM2 -1.0
+Phosphorylation-D1 -1.0
+mek-Permit -1.0
+Aurora-A-Block -1.0
+IDH1 Mutation-Clarified -1.0
+Production-Isocitrate Dehydrogenase -1.0
+Mouse, NOS-Carcinoma, Embryonal -1.0
+GATA2-Mice -1.0
+Granulopoiesis-Regulated -1.0
+Catalytic-Block -1.0
+Carbon-LABORATORY 0.1111
+Take-degradation of cyclin -1.0
+Genotoxic Stresses-studies -1.0
+Advance-research data -1.0
+ES-SEQUENCING -1.0
+ESC-Carcinoma, Embryonal -1.0
+HOPX-Process -1.0
+Papillary Carcinoma of the Thyroid-P53 -1.0
+APC-Genotoxic Stresses -1.0
+20%-Models -1.0
+Erythropoiesis-Show -1.0
+Screen-GATA2 -1.0
+Centrosomes-Promote -1.0
+Identified-inhibitors -1.0
+DNA hypermethylation-Tumors -1.0
+studies-Mutation -1.0
+Leukemic Cells-Tumors -1.0
+LATS2-Mitosis -1.0
+GATA6-LATS -1.0
+Show-Granulocyte -1.0
+Clarify-Show -1.0
+Study-Feedback -1.0
+IDH1-Contribute -1.0
+ENZYMES-cervical cancers -1.0
+Detected-Roles -1.0
+Development-cumulative gene -1.0
+Mcl-1-Work -1.0
+TET2 Gene-Redundant -1.0
+Caco-2 Cells-Analyzed -1.0
+WAS-Oct-4 -1.0
+Progression-Represent -1.0
+Crassa-Examined -1.0
+Phosphorylation-Mitosis 0.1111
+TET2 Gene-Genomic -1.0
+Examined-Homolog -1.0
+Study-transcription factor Nuclear Factor I -1.0
+DEATH-Show -1.0
+P53-RAS -1.0
+Chemical-Death Receptors -1.0
+IDH1 Mutation-IDH2 Mutation -1.0
+pRB-LEAD -1.0
+Human cells-qRT-PCR -1.0
+Human gene-Fulfill -1.0
+Erythropoiesis-Granulocyte 0.0909
+RAS-Very Important -1.0
+Cells-Kinase 0.125
+Tumor regression-TRAF6 -1.0
+RAS Oncogene-Cells -1.0
+Production-Tumors -1.0
+Tissues-localisation -1.0
+Identified-Human -1.0
+WAS-ES 0.1667
+Take-Proteolytic -1.0
+HOPX-LATS -1.0
+Mouse, NOS-Up-Regulation -1.0
+Rest-Suppressor -1.0
+Anaphase-play -1.0
+Retinoblastoma Protein-90% -1.0
+Cell Cycle Progression-play -1.0
+Inhibition-depend -1.0
+Proteolysis-INK4a -1.0
+Breast Cancer-INSULIN RECEPTOR SUBSTRATE 1 -1.0
+Oct-4-studies -1.0
+Ionising radiation-studies -1.0
+ABLATION-Oncogens -1.0
+Show-Deletion -1.0
+Reported-Clarified -1.0
+ABLATION-Development -1.0
+EVENTS-Cell Survival -1.0
+pRB-Oncogens -1.0
+Comparison-AS gene -1.0
+Differentiated-study use -1.0
+Cancer-Tumor cells -1.0
+NSCLC-Carrying -1.0
+Relapsing-COLON CANCER -1.0
+kill-striking -1.0
+transcription factor Nuclear Factor I-Transcription -1.0
+Mutant-Protein A -1.0
+Relapsing-Reports -1.0
+Bcl-2-Cancer -1.0
+MICROARRAY-Embryoid Bodies -1.0
+Cells-Oncogenes 0.0909
+WT1-Mutation 0.125
+Ras proteins-Tumor Suppressor -1.0
+Actin-Subunit -1.0
+Very Important-Excite -1.0
+cancer screen-Permit -1.0
+Wild Type-Drive -1.0
+Aurora-A kinase-MIR-145 -1.0
+Endodermal-Pluripotent Stem Cell -1.0
+studies-Defined -1.0
+-- Leukemia-Human 0.0
+Stem-Differentiation -1.0
+TET2 Gene-Show -1.0
+AML-Survey -1.0
+AML-Show -1.0
+Growth arrest-Cellular Stress Response -1.0
+TET2 Gene-Mutations -1.0
+Promote-Chromatin Structure -1.0
+Differentiated-Cell types -1.0
+Reported-localisation -1.0
+Take-Cell Growth -1.0
+Carrying-GATA2 -1.0
+apoptotic cell death-Block -1.0
+Difference stage-cells differentiation -1.0
+Cancer-Cell Survival -1.0
+solid tumors-Tumor cells -1.0
+DEATH-RIPK3 -1.0
+Phosphorylation-Activated -1.0
+Tumors-Contribute -1.0
+DEATH-RIPK1 -1.0
+Work-Study -1.0
+Differentiated-DATA SET -1.0
+these-Lesion -1.0
+LEAD-Very Important -1.0
+LEAD--- Lung Cancer 0.0
+Monitor-MIR-21 -1.0
+bcl-xL-Protein A -1.0
+Epigenetic Change-Thought -1.0
+Breast Cancer-IRS-1 -1.0
+strategies-Binding -1.0
+G2/M Transition-Homologous -1.0
+EGFR-Activities -1.0
+TET2-Enzymatic Activity -1.0
+Progression-Consideration -1.0
+Mutations-Phenotype 0.25
+hTERT-lead increased -1.0
+Represent-Thought -1.0
+Rest-Transformation -1.0
+Thought-Exhibit -1.0
+KRAS-Regulated -1.0
+Interest-Promoter -1.0
+TRANSCRIPTION FACTOR-Promoter -1.0
+metastasis-Oncogene 0.0769
+Development-overexpress -1.0
+Cancer-c-Raf -1.0
+Viability, Cell-Aurora-A -1.0
+Retinoblastoma Protein-RB1 1.0
+LATS2-MIR-21 -1.0
+HOPX-Activities -1.0
+Regulation-CDK5RAP2 -1.0
+EGFR-centrosomin -1.0
+Elimination-Very Important -1.0
+pRB-RAS -1.0
+metastasis-Show -1.0
+pRB-RB1 -1.0
+P53-Senescence -1.0
+inhibitors-Reported -1.0
+Oct-4-Embryonic Stem Cells -1.0
+Alone-fight -1.0
+LEAD-Plays -1.0
+Cancer-AKT -1.0
+research results-Drug Discovery -1.0
+P53-Reported -1.0
+Senescence-Result -1.0
+pRB-90% -1.0
+Proteasome-Cells 0.125
+Block-Rodent -1.0
+Work-ATRA -1.0
+Epigenetic Change-Epigenetic -1.0
+Myeloid Differentiation-used -1.0
+Mcl-1-Block -1.0
+CERVICAL CANCER-Cervical Squamous Cell Carcinoma -1.0
+Host Defense-compromise -1.0
+Identified-D1 -1.0
+Bcl-2-Tumor cells -1.0
+Activated-LATS1 -1.0
+mek-Defined -1.0
+Binding-CYCLIN E -1.0
+Epigenetic Change-TISSUE -1.0
+mir-223-Clarify -1.0
+GATA6-Process -1.0
+look-Kinase -1.0
+AML-Scale -1.0
+Normal cell division-Phenotype -1.0
+Tumorigenesis-Tumor Progression -1.0
+Adopted-Work -1.0
+CCAAT Enhancer Binding Protein-NF1 0.0909
+mir-223-Characterized -1.0
+ANALYSIS-cells differentiation -1.0
+GATA2-Tumor cells -1.0
+Promote-Plays -1.0
+Breast Cancer-LYMPHOMA 0.3333
+TREAT-Reported -1.0
+Detected-localisation -1.0
+Carbon-GATA2 -1.0
+LEAD-POU5F1 -1.0
+CERVICAL CANCER-Tumors 0.5
+Deletion-localisation -1.0
+human cell lines-GATA2 -1.0
+Cancer-Exhibit -1.0
+Crassa-play -1.0
+Occur-Cells -1.0
+EGFR-Checkpoint -1.0
+compromise-Show -1.0
+Immortalized-serine/threonine-protein kinase -1.0
+Cell Cycle Arrest-Senescence -1.0
+Pathways-EGFR -1.0
+Pathways-Cell Growth -1.0
+Wild Type-TREAT -1.0
+signalling-degradation of cyclin -1.0
+human cell lines-Fulfill -1.0
+TET2-Promoter -1.0
+Regulated-VARIOUS -1.0
+Oct-4-Mouse, NOS -1.0
+neoplastic transformation-Phenotype -1.0
+Mcl-1-roscovitine -1.0
+WAS-EC Cell -1.0
+Retinoblastoma Protein-Exhibit -1.0
+Oct-4-Reagent -1.0
+Drug Resistance-FASUDIL -1.0
+CERVICAL CANCER-LATS2 -1.0
+lung tumors-Sporadic -1.0
+Occur-Normal cell division -1.0
+Catalytic-2-HG -1.0
+TET1-Mutations -1.0
+Cancer-LABORATORY -1.0
+research results-Excite -1.0
+Reported-Isocitrate Dehydrogenase -1.0
+Mice-Cell Growth -1.0
+Mutant-human cell lines -1.0
+strategies-Tumor cells -1.0
+cancer cells-Sequence -1.0
+Differentiated-Embryonic Stem Cells -1.0
+Flow-KRAS -1.0
+Wild Type-Show -1.0
+P53-APC 0.3333
+cancer screen-Result -1.0
+transcription factor Nuclear Factor I-ANIMAL -1.0
+study use-cells differentiation -1.0
+PROTEIN-ABT-737 -1.0
+DEATH-kinase activity -1.0
+Mutations-RAS -1.0
+Identified-INSULIN RECEPTOR SUBSTRATE 1 -1.0
+Reported-Lead 2+ 0.0
+Occur-Show -1.0
+Cyclin-D1-Activate -1.0
+IDH2 Gene-Study -1.0
+Cyclin-Dependent Kinases-Oncogens 0.1111
+Bcl-2-Resistance -1.0
+Differentiation-Embryoid Bodies -1.0
+IDH2 Mutation-Transformation -1.0
+IDH1-Tet -1.0
+mir-223-Transcription -1.0
+Selection-Phenomena -1.0
+KRAS-Permit -1.0
+GATA2-Identified -1.0
+mir-223-Feedback -1.0
+GATA2-NDEL1 -1.0
+Oct-4-Point A -1.0
+Endodermal-Stem Cells -1.0
+P53-Proteolysis 0.1111
+Library-Show -1.0
+TET2-Study -1.0
+Catalytic-Metabolite -1.0
+transcription factor Nuclear Factor I-miRNAs -1.0
+KRAS-kill -1.0
+metastasis-CHRONIC LYMPHOCYTIC LEUKEMIA 0.25
+Cancer-Block -1.0
+Progenitor Cell proliferation-studies -1.0
+ES-Repression 0.125
+Regulation-Aurora-A -1.0
+Regression-Tumor cells -1.0
+Occur-TISSUE -1.0
+Oct-4-LEAD -1.0
+Stem-RNAi -1.0
+strategies-Stress -1.0
+Regulation-Cell Differentiation -1.0
+Ectodermal-tumor growth -1.0
+in vitro study-studies -1.0
+WAS-IDH -1.0
+Tumor regression--- Lung Cancer 0.0
+WAS-Mutations 0.1111
+Mouse, NOS-RAS -1.0
+Feedback-Regulated -1.0
+Human-LATS2 -1.0
+Viability, Cell-PROTEINS 0.125
+Mcl-1-Cancer -1.0
+Represent-Phenotype -1.0
+Proteasome-Ionising radiation -1.0
+Malignant-Very Important -1.0
+Reported-CERVICAL CANCER -1.0
+Identified-TREAT -1.0
+telomerase activity-Signaling Molecule -1.0
+Genes-Mice 0.0588
+Activated-Gene Expression -1.0
+Cancer-FAMILY MEMBER -1.0
+UP-LATS2 -1.0
+compromise-Caspase Inhibitors -1.0
+Occur-Scale -1.0
+Progenitor-Pluripotent Stem Cell -1.0
+State-Show -1.0
+Breast Cancer-Absence -1.0
+in vitro study-commitment -1.0
+Differentiated-ESC -1.0
+compromise-kinase activity -1.0
+Mice-specific -1.0
+Carbon-KRAS -1.0
+Cells-centrosomin -1.0
+ES-Point A -1.0
+Feedback-miRNAs 0.0909
+necroptosis-Chemical -1.0
+Branch-Drive -1.0
+TET1-Inhibiting -1.0
+KRAS-Screen -1.0
+Viability, Cell-NDEL1 -1.0
+UP-apoptotic cell death -1.0
+Progenitor-tumor growth -1.0
+metastasis-Breast Cancer Cell -1.0
+Regulated-Published -1.0
+GATA2-Aurora-A -1.0
+HOPX-localisation -1.0
+Immortalized-INTERMEDIATE -1.0
+Ras proteins-Alone -1.0
+Process-studies -1.0
+Cancer-Ubiquitin -1.0
+GATA2-degradation of cyclin -1.0
+regulation of ribosome biogenesis-P19 -1.0
+Cancer-Hallmark Cell -1.0
+Cells-neoplastic transformation -1.0
+ABLATION-bind -1.0
+Cancer-lead increased -1.0
+Actin-Binding -1.0
+RAS-Oncogenes -1.0
+Target Gene-MIR-21 -1.0
+Cancer-90% -1.0
+Centrosomes-cervical cells -1.0
+Viability, Cell-Process -1.0
+Cancer-RAS -1.0
+IDH2 Gene-Mutations -1.0
+Cancer-RB1 -1.0
+regulation of ribosome biogenesis-P14 -1.0
+Ionising radiation-Reported -1.0
+Proteasome-D1 -1.0
+Advance-Process -1.0
+KRAS-PC9 0.0
+Rest-BREAST 0.1111
+Leukemic Cells-Isocitrate Dehydrogenase -1.0
+GATA6-Show -1.0
+Mutant-Carrying -1.0
+IDH2 Gene-ENZYMES -1.0
+Mcl-1-apoptotic cell death -1.0
+localisation-Aurora-A -1.0
+fight-Drug Discovery -1.0
+HOPX-Tumorigenesis -1.0
+RNA Interference-Mutation 0.125
+Epigenetic-TUMORIGENICITY -1.0
+TET2-Genomic -1.0
+Progression-localisation -1.0
+Kinase-N NOS -1.0
+LEAD-Pluripotent Stem Cell 0.1
+mir-223-specific -1.0
+Identified-COLON CANCER -1.0
+cRaf-KRAS -1.0
+mir-223-Erythropoiesis -1.0
+Progenitor Cell proliferation-RNAi -1.0
+AML-Study -1.0
+Represent-research data -1.0
+KRAS-GTP -1.0
+apoptotic cell death-CERVICAL CANCER -1.0
+miRNA-COLON CANCER 0.1111
+Trigger-Proteolysis -1.0
+Human-Up-Regulation 0.0588
+Production-IDH1 Mutation -1.0
+Endodermal-Plays -1.0
+therapeutics-FAMILY MEMBER -1.0
+Drive-degradation of cyclin -1.0
+Show-Signaling Molecule -1.0
+Inhibition-inhibitors -1.0
+Regulated-Cell Growth -1.0
+combinations-D1 -1.0
+STANDING-Process -1.0
+Selected-Mice -1.0
+Show-Box -1.0
+Drug Resistance-Wild Type -1.0
+Reported-Scale -1.0
+Cell Lines-GATA2 -1.0
+LATS2-Roles -1.0
+pRB-Rodent -1.0
+Show-Progression -1.0
+Represent-EVENTS -1.0
+Cancer-GATA2 -1.0
+-- Leukemia-Breast Cancer Cell 0.0
+mir-223-Mice -1.0
+NSCLC-Drive 0.0909
+Human-Pathway -1.0
+TBK1-Pathway -1.0
+GATA6-NDEL1 -1.0
+transcription factor Nuclear Factor I-System -1.0
+Tumor regression-bind -1.0
+Drug Resistance-aggressive -1.0
+Cyclin-D1-Box -1.0
+Tumor Suppressor-Transformation -1.0
+Comparison-Drive -1.0
+Nuclear Matrix-Related -1.0
+Granulocyte-Mouse, NOS -1.0
+Epigenetic-Phenotype -1.0
+TET2-LED -1.0
+HeLa-Construct -1.0
+used-Fold -1.0
+GATA2-kill -1.0
+mir-223-Haematopoiesis -1.0
+CAAT-Enhancer Binding Protein-Granulopoiesis -1.0
+strategies-CELL -1.0
+Human cells-Microarray Analysis -1.0
+Cells-localisation -1.0
+Oncogens-Development -1.0
+IDH2 Gene-Survey -1.0
+NSCLC-Screen -1.0
+Branch-Models -1.0
+kill-GTP -1.0
+Anaphase-localisation -1.0
+Ionising radiation-Genotoxic Stress -1.0
+SWI-Related -1.0
+LATS2-Detected -1.0
+Ras proteins-RAS Oncogene -1.0
+Genes-inhibitors -1.0
+Show-Genotoxic Stresses -1.0
+Work-All-trans Retinoic Acid -1.0
+pRB-Tumors -1.0
+Plays-Aurora-A -1.0
+Cells-Agent -1.0
+mek-depend -1.0
+Production-IDH1 Gene Mutation -1.0
+miRNA-Pancreatic Cancer 0.1111
+Reported-Tumorigenesis -1.0
+NSCLC-Human gene -1.0
+Tumor Suppressor-Deregulation -1.0
+Signaling Pathways-Researchers -1.0
+PC9-LATS 0.0
+Show-Consideration -1.0
+Tumor Suppressor Proteins-Tumors 0.125
+Caveat-research data -1.0
+IDH1 Mutation-Survey -1.0
+Human-UTR -1.0
+Myelopoiesis-Mouse, NOS -1.0
+MDM2-RAS -1.0
+Human-Retinoblastoma 0.0667
+RIP1-Show -1.0
+Resistance-Block -1.0
+Like-TERM -1.0
+roscovitine-ACUTE MYELOGENOUS LEUKEMIA -1.0
+Tumor Suppressor Proteins-90% -1.0
+Breast Cancer-metastasis 0.25
+WAS-Transcriptional Networks 0.0909
+Human cells-Study -1.0
+Tumor Suppressor Proteins-RB1 0.5
+MCF-Protein Expression -1.0
+model-LUNG TUMOR -1.0
+CERVICAL CANCER-Relapsing -1.0
+AN-pRB -1.0
+metastasis-COLON CANCER 0.25
+Work-Promoter -1.0
+Cell Growth-centrosomin -1.0
+CCAAT Enhancer Binding Protein-Transcription -1.0
+LEAD-Represent -1.0
+UP-G2/M Arrest -1.0
+Mutant-Lethal -1.0
+Mouse, NOS-CO -1.0
+strategies-Pathway -1.0
+Actin-Chromatin 0.1667
+metastasis-Cervical Squamous Cell Carcinoma -1.0
+CERVICAL CANCER-Absence -1.0
+Granulocyte-Human 0.0625
+Lanugo-ABT-737 -1.0
+Differentiation-cells differentiation -1.0
+Oct-4-Cell types -1.0
+Granulopoiesis-Transcription -1.0
+TET2-in vitro study -1.0
+Phosphorylation-Cell Growth -1.0
+Catalytic-Phenotype -1.0
+strategies-Protein A -1.0
+ABLATION-Promoter -1.0
+Differentiated-Embryoid Bodies -1.0
+Electroporation-MCF7 -1.0
+Regulated-GATA6 -1.0
+CCAAT Enhancer Binding Protein-ANIMAL 0.1111
+Malignant-fight -1.0
+FUNCTIONS OF REPRODUCTION-Anaphase Promoting Complex -1.0
+ES-qRT-PCR -1.0
+ES-Transfection 0.1111
+derivatives-FAMILY MEMBER -1.0
+Tissues-Proteolysis 0.1429
+study use-Embryoid Bodies -1.0
+mir-223-Granulocyte -1.0
+Cancer-Take -1.0
+HOPX-Show -1.0
+pRB-Retinoblastoma Protein -1.0
+GATA2-localisation -1.0
+Mcl-1-FAMILY MEMBER -1.0
+Progression-STANDING -1.0
+Necrotic-Death Receptors -1.0
+Pathways-GATA6 -1.0
+mediated-INK4a -1.0
+UP-Reported -1.0
+miRNAs-Mice 0.0625
+Lethal-Kinase 0.0833
+Mouse, NOS-Reports -1.0
+Regulated-HOPX -1.0
+GATA2-PROTEINS -1.0
+Crassa-Telophase -1.0
+TET1-IDH -1.0
+Progenitor-Transcript -1.0
+study use-Cell types -1.0
+mek-Tumor cells -1.0
+Micro-tubule-Show -1.0
+Repression-RB1 0.1
+Mice-PC9 0.0
+Tumor regression-STANDING -1.0
+Tumors-Mutations 0.1429
+Tumors-Transformation -1.0
+mediated-RAS -1.0
+transcription factor Nuclear Factor I-miRNA -1.0
+Mesodermal-POU5F1 -1.0
+model-Enhance -1.0
+IDH-Lead 2+ 0.0
+ACT-Individual -1.0
+PC9-Activities 0.0
+Breast Cancer-HEPATOCELLULAR CARCINOMA 0.3333
+Tumor cells-Cell Growth -1.0
+TRAF6-Cells 0.1
+Phosphorylation Site-Box -1.0
+shRNA-Differentiation -1.0
+Feedback-System -1.0
+TREAT-Pathway -1.0
+AML-Redundant -1.0
+Cells-Represent -1.0
+Oct-4-Stem Cells -1.0
+MDM2-Rodent -1.0
+studies-IDH2 Mutation -1.0
+mek-Result -1.0
+-- Prostate Cancer-Absence 0.0
+Repression-90% -1.0
+Binding-VARIOUS -1.0
+look-Protein A -1.0
+WT1-depend -1.0
+Relapsing-Clear cell Kidney Cancer -1.0
+inhibitors-EGFR -1.0
+anti-apoptosis-resistance Determinant -1.0
+Normal cell division-EVENTS -1.0
+kill-Kinase -1.0
+IDH2 Gene-IDH -1.0
+Granulocyte-specific -1.0
+IDH-Isocitrate Dehydrogenase -1.0
+studies-IDH2 Gene -1.0
+ABT-737-Cytotoxic -1.0
+Repression-Exhibit -1.0
+WAS-RB1 0.1
+Mouse, NOS-Renilla -1.0
+ABT-737-therapeutics -1.0
+Account #-Synthetic 0.0
+Production-Metabolite -1.0
+MIR-21-Fold -1.0
+Immortalized-lead increased -1.0
+Senescence-Cultured Cells -1.0
+Human-Tumor specimens -1.0
+WAS-90% -1.0
+mir-223-Regulation -1.0
+GATA6-Tumorigenesis -1.0
+localisation-Roles -1.0
+telomerase activity-INTERMEDIATE -1.0
+Occur-IDH2 Mutation -1.0
+Show-Cell Growth -1.0
+TRANSCRIPTION FACTOR-GATA2 Transcription Factor 0.3333
+Tissues-LATS2 -1.0
+pRB-E2F-1 -1.0
+KRAS-striking -1.0
+Trigger-Show -1.0
+combinations-Ionising radiation -1.0
+KRAS-Pathway -1.0
+caspase activity-Process -1.0
+Show-N NOS -1.0
+Development-Stimulated -1.0
+Regulated-PC9 0.0
+Entry-miRNA -1.0
+Tumor Suppressor Proteins-Exhibit -1.0
+DNA hypermethylation-Block -1.0
+Mutant-Human gene -1.0
+Regulated-Cells -1.0
+Ras proteins-Oncogens 0.1
+STK33-inhibitors -1.0
+Block-INK4a -1.0
+P53-MDM2 -1.0
+Difference stage-VARIOUS -1.0
+Necrotic-Show -1.0
+Human-Plasmid 0.0625
+Identified-Mutation -1.0
+Identified--- Lung Cancer 0.0
+EC Cell-CO -1.0
+Flow-AS gene -1.0
+Proteasome-degradation of cyclin -1.0
+Rest-Deregulation -1.0
+TRAF6-GATA2 -1.0
+anti-apoptosis-ACUTE MYELOGENOUS LEUKEMIA -1.0
+necroptosis-compromise -1.0
+-- Leukemia-HEPATOCELLULAR CARCINOMA 0.0
+Mutant-inhibitors -1.0
+hTERT-Cell Survival -1.0
+mir-223-All-trans Retinoic Acid -1.0
+Transcriptional Networks-Cells 0.1111
+Oct-4-Primitive -1.0
+Stem-studies -1.0
+Retinoblastoma Protein-Gene Mutation -1.0
+Show-Proteolysis -1.0
+TET2-Catalytic -1.0
+Mouse, NOS-Development -1.0
+Oncogene-Small Cell Lung Cancers -1.0
+WT1-Tumor cells -1.0
+cancer cells-Degraded -1.0
+Proliferative-CYCLIN E -1.0
+Binding-LATS2 -1.0
+Leukemic Cells-Carrying -1.0
+Branch-LABORATORY -1.0
+model-TRAF6 -1.0
+Trigger-Genotoxic Stress -1.0
+Viability, Cell-Show -1.0
+Catalytic-Tumors -1.0
+Leukemic Cells-Metabolite -1.0
+WAS-Tumors 0.2
+Mcl-1-Reported -1.0
+Human gene-GATA2 -1.0
+KRAS-Genes -1.0
+Identified-Pathways -1.0
+Development-LATS2 -1.0
+LEAD-STANDING -1.0
+neoplastic transformation-EVENTS -1.0
+bcl-xL-Mutation -1.0
+Oct-4-Study -1.0
+Mutations-2-HG -1.0
+Cell types-Cancer -1.0
+Resistance-Tumor cells -1.0
+Breast Cancer-miRNA 0.1111
+Tumorigenesis-Scientific -1.0
+AN-Ubiquitin 0.1
+Differentiated-Mouse, NOS -1.0
+ES-TUMOR TISSUE -1.0

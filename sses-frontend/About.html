@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/Template.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <!-- InstanceBeginEditable name="doctitle" -->
+    <title>Bio-SSES Online Demo</title>
+    <link href="style.css" rel="stylesheet" media="all" type="text/css" />
+    <link href="style.css" rel="stylesheet" type="text/css" />
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="head" -->
+    <!-- InstanceEndEditable -->
+</head>
+
+<body>
+<div id="Container">
+    <div id="Header">
+        <div id="logo">
+        </div>
+        <div id="text1">
+            <h1> BIOSSES : Biomedical Semantic Similarity Estimation System</h1>
+        </div>
+    </div>
+    <!-- InstanceBeginEditable name="EditRegion3" -->
+    <div id="Content1">
+        <p style="text-decoration:underline">Method:</p>
+        <select id="method">
+            <option value="1" > WordNet Similarity (WS4J-Path)</option>
+            <option value="2"> UMLS Similarity (Path) </option>
+            <option value="3" > Combined Ontology Method (WordNet-UMLS) </option>
+            <option value="4"> Qgram Similarity (Lexical Similarity) </option>
+            <option value="5"> Paragraph Vector (Distributional Semantic Model) </option>
+            <option value="6"> Supervised Approach </option>
+        </select>
+        <textarea name="sentence1" cols="20" rows="15" id="s1"  dir="ltr">#Enter your first sentence</textarea>
+        <textarea name="sentence2" cols="20" rows="15" id="s2"  dir="ltr">#Enter your second sentence</textarea>
+        <input name="Button" type="button" value="Calculate" onclick="sendCustomerSentencesToServerSide()"/>
+        <textarea name="result" cols="10" rows="1" id="result" dir="ltr"></textarea>
+    </div>
+    <div id="Content2">
+              <div id="navigation">
+                <ul >
+                  <li><a class="active" href="About.html">About</a></li>
+                  <li><a class="active" href="DataSet.html">Data Set</a></li>
+                  <li><a class="active" href="SourceCode.html">Source Code</a></li>
+                </ul>
+
+              </div>
+			  <style> .indented { padding-left: 10pt; padding-right: 5pt; }  .indented2 {padding-left: 40pt; }</style> 
+
+			  <p class="indented">BioSSES computes similarity of biomedical sentences by utilizing WordNet as the general domain &emsp;ontology and UMLS as the biomedical domain specific ontology. </p>
+			  <p class="indented">We  also allow you to compute sentence similarity with the following methods:</p>
+				<dl class="indented2">
+					<dt>Combined Ontology (Wordnet and UMLS)</dt>
+					<dt>Qgram</dt>
+					<dt>Paragraph Vector</dt>
+					<dt>Supervised Approach</dt>
+				</dl>
+                <p class="indented">Further details can be found in the thesis entitled <a href="index.html"  target="_blank">"BioSSES: Semantic Sentence Similarity Estimation &emsp;System in the Biomedical Domain"</a> </p>
+        
+                <p class="indented">For citing this study, please use:</p>
+                 
+            </div>
+
+        	<!-- InstanceEndEditable --></div>
+<script src="callback.js"></script>
+</body>
+<!-- InstanceEnd -->
+</html>

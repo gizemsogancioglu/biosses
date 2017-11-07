@@ -1,0 +1,105 @@
+@charset "utf-8";
+body{
+	background-color:#333;
+	
+	 
+}
+#Container {
+	background-image:url(images/13.jpg);
+	 background-attachment:fixed;
+	background-color:#C0C0C0;
+	border-radius:10px;
+	width:1000px;
+	height:960px;
+	margin:20px auto;
+}
+#Header  {
+	height:70px;
+	padding:20px;
+	font-size:15px;	
+	
+}
+#logo  {
+	text-indent:-9999999px;
+	background:url(images/logo-kucuk.png);
+	float:left;
+	width:103px;
+	height:103px;
+}
+
+#text1 {
+	float:right;
+	width:800px;
+}
+
+#Content1 {
+	background-color:#CCC;
+	height:700px;
+	margin:20px 20px;
+	padding:20px;
+	width:200px;
+	float: left;
+	width:170px;
+	
+}
+select {
+	width:165px;
+	
+}
+textarea {
+	width:165px;
+
+    
+}
+
+input[type=button]{
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+#Content2 {
+	background-color:#CCC;
+	height:740px;
+	width:700px;
+	margin:20px 20px;
+    float: right;
+
+}
+
+
+
+ul {
+    list-style-type:none;
+    margin:1px;
+    padding:1px;
+    overflow: hidden;
+    background-color: #333;
+}
+
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: left;
+    padding: 14px 16px;
+    text-decoration: none;
+	
+}
+
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+    background-color: #111;
+}
+li a:hover:not(.active) {
+    background-color: #111;
+}
+
