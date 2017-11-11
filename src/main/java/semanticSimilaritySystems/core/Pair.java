@@ -3,7 +3,7 @@ package semanticSimilaritySystems.core;
 import java.util.List;
 
 /**
- * Created by orhan on 10.02.2016.
+ * Created by gizem on 10.02.2016.
  */
 public class Pair {
     private String sentence1;

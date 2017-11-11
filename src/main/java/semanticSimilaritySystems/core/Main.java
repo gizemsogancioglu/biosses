@@ -9,7 +9,7 @@ import java.io.*;
 import java.util.*;
 
 /**
- * Created by orhan on 07.02.2016.
+ * Created by gizem on 07.02.2016.
  */
 public class Main {
 
@@ -77,7 +77,7 @@ public class Main {
             System.out.println(similarityScore);
             //break;
         }
-        BufferedWriter writer = new BufferedWriter(new FileWriter(new File("pair_score.txt")));
+        BufferedWriter writer = new BufferedWriter(new FileWriter(new File("pair_score_by_combined_method.txt")));
 
 
         HashMap<String,Double> pair_scores = measure1.getPair_score();

@@ -1,9 +1,9 @@
-package similarityMeasures;
+package stringSimilarityMeasures;
 
 import java.util.Vector;
 
 /**
- * Created by orhan on 03.02.2016.
+ * Created by gizem on 03.02.2016.
  */
 public abstract class Distance {
 

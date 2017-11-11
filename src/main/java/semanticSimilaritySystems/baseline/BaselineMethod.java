@@ -1,11 +1,11 @@
 package semanticSimilaritySystems.baseline;
 import semanticSimilaritySystems.core.SimilarityMeasure;
-import similarityMeasures.CosineSimilarity;
+import stringSimilarityMeasures.CosineSimilarity;
 import slib.utils.ex.SLIB_Exception;
 import java.util.*;
 
 /**
- * Created by orhan on 01.02.2016.
+ * Created by gizem on 01.02.2016.
  */
 public class BaselineMethod implements SimilarityMeasure{
 

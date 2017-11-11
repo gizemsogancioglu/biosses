@@ -11,7 +11,7 @@ import java.io.FileReader;
 import java.io.IOException;
 
 /**
- * Created by orhan on 12.02.2016.
+ * Created by gizem on 12.02.2016.
  */
 public class Test {
 
@@ -165,23 +165,15 @@ public class Test {
     public static void evaluateEachAnnotatorCorrelations(DoubleVector groundTruthMean) throws IOException {
 
         DoubleVector annotatorA = readCorrelationFiles("correlationResult/groundTruth/annotatorA.txt");
-        DoubleVector annotatorA_new = readCorrelationFiles("correlationResult/groundTruth/annotatorA_new.txt");
-
         DoubleVector annotatorB = readCorrelationFiles("correlationResult/groundTruth/annotatorB.txt");
-        DoubleVector annotatorB_new = readCorrelationFiles("correlationResult/groundTruth/annotatorB_new.txt");
-
         DoubleVector annotatorC = readCorrelationFiles("correlationResult/groundTruth/annotatorC.txt");
         DoubleVector annotatorD = readCorrelationFiles("correlationResult/groundTruth/annotatorD.txt");
         DoubleVector annotatorE = readCorrelationFiles("correlationResult/groundTruth/annotatorE.txt");
 
         double correlationA = calculateCorrelation(groundTruthMean, annotatorA);
-        double correlationA_new = calculateCorrelation(groundTruthMean, annotatorA_new);
-
         double correlationB = calculateCorrelation(groundTruthMean, annotatorB);
-        double correlationB_new = calculateCorrelation(groundTruthMean, annotatorB_new);
 
         double correlationE = calculateCorrelation(groundTruthMean, annotatorE);
-        System.out.println("a " + correlationA + "a_new " + correlationA_new + "b " + correlationB + "b_new " + correlationB_new);
         System.out.println("\n********"+ correlationE);
 
     }

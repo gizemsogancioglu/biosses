@@ -7,7 +7,7 @@ import java.util.LinkedList;
 import java.util.List;
 
 /**
- * Created by orhan on 01.02.2016.
+ * Created by gizem on 01.02.2016.
  */
 public class FeatureExtractor {
     LinkedList<Pair> pairs;

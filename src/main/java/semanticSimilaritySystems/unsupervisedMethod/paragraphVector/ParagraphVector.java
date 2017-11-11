@@ -1,24 +1,22 @@
 package semanticSimilaritySystems.unsupervisedMethod.paragraphVector;
 
 import semanticSimilaritySystems.core.SimilarityMeasure;
-import similarityMeasures.CosineSimilarity;
-import slib.utils.ex.SLIB_Exception;
+import stringSimilarityMeasures.CosineSimilarity;
+
 import java.io.IOException;
 import java.util.HashMap;
 import java.util.Vector;
 
 /**
- * Created by orhan on 31.01.2016.
+ * Created by gizem on 31.01.2016.
  */
 public class ParagraphVector implements SimilarityMeasure{
     private ParagraphVectorModel model;
     private HashMap<String, Vector<Double>> sentenceVectors;
 
     public ParagraphVector(ParagraphVectorModel model) throws IOException {
-
         this.model = model;
         loadSentenceVectorsFromModel();
-
     }
 
     public double getSimilarity(String sentence1ID, String sentence2ID) {

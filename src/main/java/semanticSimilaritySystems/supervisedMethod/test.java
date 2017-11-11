@@ -37,7 +37,7 @@ public class test {
 
         LinkedList<Pair> pairList;
         FileOperations operations = new FileOperations();
-        pairList = operations.readPairsFromFile("sentencePairsData/pairs_berna.txt");
+        pairList = operations.readPairsFromFile("sentencePairsData/pairs.txt");
 
         List<String> stopWordsList = readStopWordsList();
 //        FeatureExtractor featureExtractor = new FeatureExtractor(pairList,stopWordsList);

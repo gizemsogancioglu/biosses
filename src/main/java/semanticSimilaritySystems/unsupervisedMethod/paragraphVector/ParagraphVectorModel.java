@@ -6,13 +6,12 @@ import java.util.HashMap;
 import java.util.Vector;
 
 /**
- * Created by orhan on 08.02.2016.
+ * Created by gizem on 08.02.2016.
  */
 public class ParagraphVectorModel {
     private String paragraphVectorModelFile;
 
     public ParagraphVectorModel(String paragraphVectorModelFile){
-
         this.paragraphVectorModelFile  = paragraphVectorModelFile;
 
     }

@@ -3,14 +3,14 @@ import semanticSimilaritySystems.core.Pair;
 import semanticSimilaritySystems.core.Sentence;
 import semanticSimilaritySystems.core.SimilarityMeasure;
 import semanticSimilaritySystems.core.Word;
-import similarityMeasures.CosineSimilarity;
+import stringSimilarityMeasures.CosineSimilarity;
 import slib.utils.ex.SLIB_Exception;
 
 import java.io.*;
 import java.util.*;
 
 /**
- * Created by orhan on 31.01.2016.
+ * Created by gizem on 31.01.2016.
  */
 public class CombinedOntologyMethod implements SimilarityMeasure{
 

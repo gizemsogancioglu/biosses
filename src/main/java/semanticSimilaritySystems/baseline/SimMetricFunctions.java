@@ -7,7 +7,7 @@ import java.io.IOException;
 
 
 /**
- * Created by orhan on 27.02.2016.
+ * Created by gizem on 27.02.2016.
  */
 
 public class SimMetricFunctions implements SimilarityMeasure{

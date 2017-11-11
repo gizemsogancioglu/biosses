@@ -1,7 +1,7 @@
 package semanticSimilaritySystems.unsupervisedMethod.combinedOntologyMethod;
 
 /**
- * Created by orhan on 31.01.2016.
+ * Created by gizem on 31.01.2016.
  */
 
 import java.io.*;

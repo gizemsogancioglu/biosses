@@ -95,14 +95,13 @@ public class LinearRegressionMethod implements SimilarityMeasure {
             CombinedOntologyMethod score_wordnet = new CombinedOntologyMethod(stopWordsList);
             double score_1 = score_wordnet.getSimilarityForWordnet(sentence1, sentence2);
 
-         //   System.out.println("Wordnet score: " + score_1);
-
+            //   System.out.println("Wordnet score: " + score_1);
 
             //double score2 = score_wordnet.getSimilarityForUMLS("It has been shown that Craf is essential for Kras G12D-induced NSCLC.", "It has recently become evident that Craf is essential for the onset of Kras-driven NSCLC.");
 
-            double score2 = score_1+0.11;
+            double score2 = score_wordnet.getSimilarityForUMLS(sentence1, sentence2);
 
-  //          System.out.println("UMLS score: "  + score2);
+            //          System.out.println("UMLS score: "  + score2);
             double similarityScoreOfCombined = (score2 + score_1) / 2;
 
             StringMetric metric = StringMetrics.qGramsDistance();
@@ -110,13 +109,10 @@ public class LinearRegressionMethod implements SimilarityMeasure {
 
 //            System.out.println("Qgram metric:" + similarityScoreOfQgram);
 
-
-            Random rand = new Random();
-            int val = rand.nextInt(50) + 40;
-            double similarityScoreOfWordVec = (double) val / 100.0;
-
+            double similarityScoreOfWordVec = 0 ;
             if(sentence1.equalsIgnoreCase(sentence2))
                 similarityScoreOfWordVec = 1;
+
 
             testInstance = new DenseInstance(3);
             testInstance.setValue(0, similarityScoreOfWordVec);
