@@ -5,6 +5,7 @@ import org.simmetrics.metrics.StringMetrics;
 import semanticSimilaritySystems.core.FileOperations;
 import semanticSimilaritySystems.supervisedMethod.regressors.LinearRegressionMethod;
 import semanticSimilaritySystems.unsupervisedMethod.combinedOntologyMethod.CombinedOntologyMethod;
+import semanticSimilaritySystems.unsupervisedMethod.paragraphVector.SentenceVectorsBasedSimilarity;
 import semanticSimilaritySystems.unsupervisedMethod.paragraphVector.WordVectorConstructor;
 import slib.utils.ex.SLIB_Exception;
 
@@ -73,11 +74,9 @@ public class SSESService {
 
             case 5:
                 //paragraph vector model based similarity was selected as an option.
-                similarityScore = 0 ;
-                WordVectorConstructor wordVectorConstructor = new WordVectorConstructor();
-                //    similarityScore = wordVectorConstructor.getSimilarityRandomly(preprocessedS1, preprocessedS2);
-                //     System.out.println("SCOREOFPARAGRAPHVEC:" + similarityScore);
-                //PARAGRAPH VEC
+                SentenceVectorsBasedSimilarity sentenceVectorsBasedSimilarity = new SentenceVectorsBasedSimilarity();
+                similarityScore = sentenceVectorsBasedSimilarity.getSimilarity(preprocessedS1, preprocessedS2);
+                System.out.println("SCOREOFPARAGRAPHVEC:" + similarityScore);
                 break;
 
             case 6:

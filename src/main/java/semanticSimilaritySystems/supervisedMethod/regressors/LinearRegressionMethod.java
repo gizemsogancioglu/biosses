@@ -6,6 +6,7 @@ import org.simmetrics.metrics.StringMetrics;
 import semanticSimilaritySystems.core.FileOperations;
 import semanticSimilaritySystems.core.SimilarityMeasure;
 import semanticSimilaritySystems.unsupervisedMethod.combinedOntologyMethod.CombinedOntologyMethod;
+import semanticSimilaritySystems.unsupervisedMethod.paragraphVector.SentenceVectorsBasedSimilarity;
 import semanticSimilaritySystems.unsupervisedMethod.paragraphVector.WordVectorConstructor;
 import services.SSESService;
 import slib.utils.ex.SLIB_Exception;
@@ -42,7 +43,7 @@ public class LinearRegressionMethod implements SimilarityMeasure {
 
         BufferedReader br = null;
         int numFolds = 10;
-        br = new BufferedReader(new FileReader(Resources.getResource("classifierModels/rawData_biomedical.arff").getFile()));
+        br = new BufferedReader(new FileReader(Resources.getResource("arffModels/rawData_biomedical.arff").getFile()));
 
         Instances trainData = new Instances(br);
         trainData.setClassIndex(trainData.numAttributes() - 1);
@@ -63,7 +64,6 @@ public class LinearRegressionMethod implements SimilarityMeasure {
 
             Evaluation evaluation = new Evaluation(train);
             double[] prediction_results = evaluation.evaluateModel(lr, test);
-
             evaluateResults(evaluation);
             accuracy += evaluation.correlationCoefficient();
 
@@ -77,8 +77,6 @@ public class LinearRegressionMethod implements SimilarityMeasure {
         for (Prediction p : evaluation.predictions()) {
             System.out.println(p.actual() + " " + p.predicted());
         }
-
-
         System.out.println(evaluation.toSummaryString("\nResults\n======\n", true));
         //  System.out.println(evaluation.toSummaryString(evaluation.correlationCoefficient() + " " + evaluation.errorRate() + " " + evaluation.meanAbsoluteError() + " ");
 
@@ -94,28 +92,18 @@ public class LinearRegressionMethod implements SimilarityMeasure {
 
             CombinedOntologyMethod score_wordnet = new CombinedOntologyMethod(stopWordsList);
             double score_1 = score_wordnet.getSimilarityForWordnet(sentence1, sentence2);
-
-            //   System.out.println("Wordnet score: " + score_1);
-
-            //double score2 = score_wordnet.getSimilarityForUMLS("It has been shown that Craf is essential for Kras G12D-induced NSCLC.", "It has recently become evident that Craf is essential for the onset of Kras-driven NSCLC.");
-
             double score2 = score_wordnet.getSimilarityForUMLS(sentence1, sentence2);
-
-            //          System.out.println("UMLS score: "  + score2);
             double similarityScoreOfCombined = (score2 + score_1) / 2;
 
             StringMetric metric = StringMetrics.qGramsDistance();
             double similarityScoreOfQgram = metric.compare(sentence1, sentence2);
 
-//            System.out.println("Qgram metric:" + similarityScoreOfQgram);
-
-            double similarityScoreOfWordVec = 0 ;
-            if(sentence1.equalsIgnoreCase(sentence2))
-                similarityScoreOfWordVec = 1;
+            SentenceVectorsBasedSimilarity sentenceVectorsBasedSimilarity = new SentenceVectorsBasedSimilarity();
+            double similarityScoreOfSentenceVector = sentenceVectorsBasedSimilarity.getSimilarity(sentence1, sentence2) ;
 
 
             testInstance = new DenseInstance(3);
-            testInstance.setValue(0, similarityScoreOfWordVec);
+            testInstance.setValue(0, similarityScoreOfSentenceVector);
             testInstance.setValue(1, similarityScoreOfQgram);
             testInstance.setValue(2, similarityScoreOfCombined);
 
@@ -127,7 +115,7 @@ public class LinearRegressionMethod implements SimilarityMeasure {
 
         BufferedReader br = null;
         try {
-            br = new BufferedReader(new FileReader(Resources.getResource("classifierModels/rawData_biomedical.arff").getFile()));
+            br = new BufferedReader(new FileReader(Resources.getResource("arffModels/rawData_biomedical.arff").getFile()));
             Instances trainData = new Instances(br);
             trainData.setClassIndex(trainData.numAttributes() - 1);
             br.close();

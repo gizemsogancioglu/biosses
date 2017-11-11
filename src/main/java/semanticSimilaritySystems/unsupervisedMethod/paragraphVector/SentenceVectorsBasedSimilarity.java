@@ -41,7 +41,7 @@ public class SentenceVectorsBasedSimilarity implements SimilarityMeasure {
             TokenizerFactory t = new DefaultTokenizerFactory();
             t.setTokenPreProcessor(new CommonPreprocessor());
             paragraphVectors.setTokenizerFactory(t);
-            paragraphVectors.getConfiguration().setIterations(100); // please note, we set iterations to 1 here, just to speedup inference
+            paragraphVectors.getConfiguration().setIterations(10); // please note, we set iterations to 1 here, just to speedup inference
 
         } catch (IOException e) {
             e.printStackTrace();
@@ -49,16 +49,10 @@ public class SentenceVectorsBasedSimilarity implements SimilarityMeasure {
         return paragraphVectors;
     }
 
-    public static void main(String[] args) throws Exception {
-        String testPath = "semantic_similarity_annotation.xlsx";
+    public static void main(String[] args) throws FileNotFoundException {
         SentenceVectorsBasedSimilarity d = new SentenceVectorsBasedSimilarity();
-        // d.trainWordVectors(PARAGRAPHVECTORMODELPATH);
-        //   d.preprocessRawDataForTraining();
         d.trainParagraghVecModel(PARAGRAPHVECTORMODELPATH);
-        //  d.produceParagraphVectorOfGivenSentence("ben çok mutlu bir kýzým.");
-        // System.out.println("selam");
-
-        //    d.visualizeNetwork(PARAGRAPHVECTORMODELPATH);
+        d.produceParagraphVectorOfGivenSentence("ben çok mutlu bir kýzým.");
     }
 
     public INDArray produceParagraphVectorOfGivenSentence(String testSentence) {
@@ -77,7 +71,6 @@ public class SentenceVectorsBasedSimilarity implements SimilarityMeasure {
         AbstractCache<VocabWord> cache = new AbstractCache<VocabWord>();
         TokenizerFactory t = new DefaultTokenizerFactory();
         t.setTokenPreProcessor(new CommonPreprocessor());
-
         /*
              if you don't have LabelAwareIterator handy, you can use synchronized labels generator
               it will be used to label each document/sequence/line with it's own label.
@@ -104,8 +97,6 @@ public class SentenceVectorsBasedSimilarity implements SimilarityMeasure {
 
         WordVectorSerializer.writeParagraphVectors(vec, locationToSave);
     }
-
-
 
     public double getSimilarity(String sentence1, String sentence2){
         double predictedScore = 0;
