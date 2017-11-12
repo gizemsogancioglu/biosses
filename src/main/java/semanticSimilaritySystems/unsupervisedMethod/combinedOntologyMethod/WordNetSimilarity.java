@@ -35,13 +35,6 @@ public class WordNetSimilarity implements SimilarityMeasure {
     }
 
     public double calculateWordNetPairScore(String word1, String word2){
-
-        // word1 = "love"; word2 = "like";
-    ///   System.setProperty("wordnet.database.dir", "C:/Users/T082123/Desktop/sses/src/main/resources/dict/");
-        //C:\Users\T082123\Desktop\sses\src\main\resources\dict
-  //      WordNetDatabase database = WordNetDatabase.getFileInstance();
-    //    Synset[] synsets = database.getSynsets(word1);
-        //word1 = Stem(word1); word2 = Stem(word2);
         ILexicalDatabase db = new NictWordNet();
         WS4JConfiguration.getInstance().setMFS(true);
 

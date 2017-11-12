@@ -19,11 +19,8 @@ import org.nd4j.linalg.ops.transforms.Transforms;
 import org.simmetrics.StringMetric;
 import org.simmetrics.metrics.StringMetrics;
 import semanticSimilaritySystems.core.SimilarityMeasure;
-import slib.utils.ex.SLIB_Exception;
 
-import java.io.File;
-import java.io.FileNotFoundException;
-import java.io.IOException;
+import java.io.*;
 
 /**
  * Created by gizemsogancioglu on 11.11.2017.
@@ -36,7 +33,7 @@ public class SentenceVectorsBasedSimilarity implements SimilarityMeasure {
 
     private static ParagraphVectors loadParagraphVectors() {
         ParagraphVectors paragraphVectors = null;
-        try {
+  /*      try {
             paragraphVectors = WordVectorSerializer.readParagraphVectors((PARAGRAPHVECTORMODELPATH));
             TokenizerFactory t = new DefaultTokenizerFactory();
             t.setTokenPreProcessor(new CommonPreprocessor());
@@ -46,13 +43,29 @@ public class SentenceVectorsBasedSimilarity implements SimilarityMeasure {
         } catch (IOException e) {
             e.printStackTrace();
         }
-        return paragraphVectors;
+*/        return paragraphVectors;
     }
 
-    public static void main(String[] args) throws FileNotFoundException {
+    public static void main(String[] args) throws IOException {
+
         SentenceVectorsBasedSimilarity d = new SentenceVectorsBasedSimilarity();
-        d.trainParagraghVecModel(PARAGRAPHVECTORMODELPATH);
-        d.produceParagraphVectorOfGivenSentence("ben çok mutlu bir kýzým.");
+        d.readTrainingDataAndPrepareIt();
+     //   d.trainParagraghVecModel(PARAGRAPHVECTORMODELPATH);
+    //    d.produceParagraphVectorOfGivenSentence("i love you");
+
+
+    }
+
+    private void readTrainingDataAndPrepareIt() throws IOException {
+        BufferedReader bufferedReader = new BufferedReader(new FileReader(new File("train-file.txt")));
+        String line;
+        int count = 0;
+        while ((line = bufferedReader.readLine())!=null){
+            System.out.println(line);
+            count++;
+            if(count == 100)
+                break;
+        }
     }
 
     public INDArray produceParagraphVectorOfGivenSentence(String testSentence) {

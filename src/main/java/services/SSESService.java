@@ -80,7 +80,6 @@ public class SSESService {
                 break;
 
             case 6:
-                //TODO: needs modification
                 //Supervised Semantic Similarity was selected from the options list.
                 LinearRegressionMethod linearRegressionMethod = new LinearRegressionMethod();
                 similarityScore = linearRegressionMethod.getSimilarity(preprocessedS1, preprocessedS2);

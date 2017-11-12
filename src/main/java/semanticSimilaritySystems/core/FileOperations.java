@@ -123,14 +123,14 @@ public class FileOperations {
                 String beginBigram ="\\B"; String endBigram  ="\\E";
                 String preWord =beginBigram;
                 List<String> bigramlst = new LinkedList<String>();
-//                for(String word: split){
-//                    word = word.toLowerCase();
-//                    word = replacePunctuations(word);
-//                    lst.add(word);
-//                    bigramlst.add(preWord +"-"+word);
-//                    preWord = word;
-//                }
-//                bigramlst.add(preWord + "-" + endBigram);
+                for(String word: split){
+                    word = word.toLowerCase();
+                    word = replacePunctuations(word);
+                    lst.add(word);
+                    bigramlst.add(preWord +"-"+word);
+                    preWord = word;
+                }
+                bigramlst.add(preWord + "-" + endBigram);
                 if(count==1){
                     newPair.setSentence1(sentence);
                     newPair.setPreprocessedWordListForSentence1(lst);
