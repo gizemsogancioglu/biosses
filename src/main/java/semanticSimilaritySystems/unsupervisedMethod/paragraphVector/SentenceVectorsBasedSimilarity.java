@@ -28,12 +28,13 @@ import java.io.*;
 public class SentenceVectorsBasedSimilarity implements SimilarityMeasure {
 
     static final Logger logger = LogManager.getLogger(SentenceVectorsBasedSimilarity.class.getName());
-    static final String PARAGRAPHVECTORMODELPATH = Resources.getResource("paragraphVectors/paragVecModel.zip").getFile();
+    static final String
+            PARAGRAPHVECTORMODELPATH = Resources.getResource("paragraphVectors/paragVecModel.zip").getFile();
     static final ParagraphVectors PARAGRAPHVECS = loadParagraphVectors();
 
     private static ParagraphVectors loadParagraphVectors() {
         ParagraphVectors paragraphVectors = null;
-  /*      try {
+        try {
             paragraphVectors = WordVectorSerializer.readParagraphVectors((PARAGRAPHVECTORMODELPATH));
             TokenizerFactory t = new DefaultTokenizerFactory();
             t.setTokenPreProcessor(new CommonPreprocessor());
@@ -43,14 +44,14 @@ public class SentenceVectorsBasedSimilarity implements SimilarityMeasure {
         } catch (IOException e) {
             e.printStackTrace();
         }
-*/        return paragraphVectors;
+        return paragraphVectors;
     }
 
     public static void main(String[] args) throws IOException {
 
         SentenceVectorsBasedSimilarity d = new SentenceVectorsBasedSimilarity();
-        d.readTrainingDataAndPrepareIt();
-     //   d.trainParagraghVecModel(PARAGRAPHVECTORMODELPATH);
+   //     d.readTrainingDataAndPrepareIt();
+        d.trainParagraghVecModel(PARAGRAPHVECTORMODELPATH);
     //    d.produceParagraphVectorOfGivenSentence("i love you");
 
 
@@ -78,7 +79,7 @@ public class SentenceVectorsBasedSimilarity implements SimilarityMeasure {
     }
 
     public void trainParagraghVecModel(String locationToSave) throws FileNotFoundException {
-        ClassPathResource resource = new ClassPathResource("/paragraphVectors/sentenceVectorTrainingData.txt");
+        ClassPathResource resource = new ClassPathResource("/paragraphVectors/paragraphVectorTraining.txt");
         File file = resource.getFile();
         SentenceIterator iter = new BasicLineIterator(file);
         AbstractCache<VocabWord> cache = new AbstractCache<VocabWord>();
@@ -93,12 +94,12 @@ public class SentenceVectorsBasedSimilarity implements SimilarityMeasure {
 
         ParagraphVectors vec = new ParagraphVectors.Builder()
                 .minWordFrequency(1)
-                .iterations(2000)
+                .iterations(100)
                 .epochs(1)
-                .layerSize(100)
+                .layerSize(50)
                 .learningRate(0.02)
                 .labelsSource(source)
-                .windowSize(10)
+                .windowSize(5)
                 .iterate(iter)
                 .trainWordVectors(true)
                 .vocabCache(cache)

@@ -92,15 +92,18 @@ public class LinearRegressionMethod implements SimilarityMeasure {
 
             CombinedOntologyMethod score_wordnet = new CombinedOntologyMethod(stopWordsList);
             double score_1 = score_wordnet.getSimilarityForWordnet(sentence1, sentence2);
+            System.out.println("score wordnet: " + score_1);
             double score2 = score_wordnet.getSimilarityForUMLS(sentence1, sentence2);
+            System.out.println("score umls: " + score2);
             double similarityScoreOfCombined = (score2 + score_1) / 2;
 
+            System.out.println("combined score: " + similarityScoreOfCombined);
             StringMetric metric = StringMetrics.qGramsDistance();
             double similarityScoreOfQgram = metric.compare(sentence1, sentence2);
 
             SentenceVectorsBasedSimilarity sentenceVectorsBasedSimilarity = new SentenceVectorsBasedSimilarity();
             double similarityScoreOfSentenceVector = sentenceVectorsBasedSimilarity.getSimilarity(sentence1, sentence2) ;
-
+            System.out.println("paragraph vector score: " + similarityScoreOfSentenceVector);
 
             testInstance = new DenseInstance(3);
             testInstance.setValue(0, similarityScoreOfSentenceVector);
