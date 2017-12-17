@@ -51,8 +51,8 @@ The following are usage examples of different methods provided by BIOSSES for me
 /*************************************************************************************/
  
  /**********************PARAGRAPH VECTOR METHOD**************************************/
- WordVectorConstructor wordVectorConstructor = new WordVectorConstructor();
- similarityScore = wordVectorConstructor.getSimilarity(sentence1, sentence2);
+ SentenceVectorsBasedSimilarity sentenceVectorsBasedSimilarity = new SentenceVectorsBasedSimilarity();
+ similarityScore = sentenceVectorsBasedSimilarity.getSimilarity(preprocessedS1, preprocessedS2);
  /*************************************************************************************/
 
 /************************SUPERVISED SEMANTIC SIMILARITY SYSTEM*************************/
@@ -66,7 +66,7 @@ CombinedOntologyMethod has one more constructor which takes a List<String> param
 If you use this system, please cite the following paper:
 Soğancıoğlu, Gizem, Hakime Öztürk, and Arzucan Özgür. "BIOSSES: a semantic sentence similarity estimation system for the biomedical domain." Bioinformatics 33.14 (2017): i49-i58.
 
-For more information please contact: gizemsogancioglu@gmail.com
+For more information and any problems please contact: gizemsogancioglu@gmail.com
 
 
 
