@@ -19,7 +19,7 @@
 # Download resources from bitbucket repo
 DIR="./src/main/resources"
 mkdir -p $DIR
-wget -nc https://bitbucket.org/fgaim/biosses-resources/raw/16e9fbe9332ee07f13c0c25b05c3a1dbeaabca29/resources.zip -O "$DIR/resources.zip"
+wget -nc https://bitbucket.org/gizemsogancioglu/biosses-resources/src/52a77008d6c80ea570fa717136421b8c81683aa2/resources.zip -O "$DIR/resources.zip"
 
 # Uncompress
 cd $DIR
