@@ -483,26 +483,13 @@ public class CombinedOntologyMethod implements SimilarityMeasure{
     }
 
     public double getSimilarity(String sentence1, String sentence2) throws SLIB_Exception, IOException {
-
-//        Sentence mappedSentence1 = getMetamapResult(removeAllNonAsciiLetters(sentence1), stopWordsList);
-//        Sentence mappedSentence2 = getMetamapResult(removeAllNonAsciiLetters(sentence2),stopWordsList);
-//
-//        if(mappedSentence1.getStringWords().size() == 0 || mappedSentence2.getStringWords().size() == 0){
-//            System.out.println("METAMAP RESULT");
-//            return 0;
-//        }
-//        //METAMAP i cagirdiktan sonra, eklenen kelimelerde, noktalama işaretleri kaldirilmis ve stop word bilgisi eklenmis oluyor
-        Sentence mappedSentence1 = returnSentence(sentence1, stopWordsList);
-        Sentence mappedSentence2 = returnSentence(sentence2, stopWordsList);
-      //  returnSentence dan sonra da noktalama kaldırılmıs ve stop word bilgisi eklenmis oldu
-        HashSet<Word> dictionary  = constructDictionary(mappedSentence1, mappedSentence2);
-
-        Vector<Double> vector1 = constructVectorForSentence(mappedSentence1, dictionary);
-        Vector<Double> vector2 = constructVectorForSentence(mappedSentence2, dictionary);
-
-        CosineSimilarity similarityMeasure = new CosineSimilarity(vector1, vector2);
-        double similarityScore = similarityMeasure.calculateDistanceAmongVectors();
-        return similarityScore;
+        //Sentence-level combined ontology based similarity
+         double score_1 = getSimilarityForWordnet(s1, s2);
+         double score2 =  getSimilarityForUMLS(s1,s2);
+                
+         double similarityScore = (score2+score_1)/2;
+   
+         return similarityScore;
     }
 
     public HashMap<String, Double> getPair_score() {
