@@ -22,6 +22,7 @@ import semanticSimilaritySystems.core.FileOperations;
 import semanticSimilaritySystems.supervisedMethod.regressors.LinearRegressionMethod;
 import semanticSimilaritySystems.unsupervisedMethod.combinedOntologyMethod.CombinedOntologyMethod;
 import semanticSimilaritySystems.unsupervisedMethod.paragraphVector.WordVectorConstructor;
+import semanticSimilaritySystems.unsupervisedMethod.paragraphVector.SentenceVectorsBasedSimilarity;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
@@ -72,7 +73,7 @@ public class cmd {
         CombinedOntologyMethod measureOfUmls = new CombinedOntologyMethod(stopwords);
         CombinedOntologyMethod measureOfCombined = new CombinedOntologyMethod(stopwords);
         StringMetric qgram_metric = StringMetrics.qGramsDistance();
-        WordVectorConstructor wordVectorConstructor = new WordVectorConstructor();
+        SentenceVectorsBasedSimilarity sentenceVectorsBasedSimilarity = new SentenceVectorsBasedSimilarity();
         LinearRegressionMethod linearRegressionMethod = new LinearRegressionMethod();
 
         String title = "#\tWordNet\tUMLS\tCombined\tQGRAM\tPVM\tSPRVSD";
@@ -125,7 +126,7 @@ public class cmd {
 
             try {
                 /************* PARAGRAPH VECTOR METHOD *****************/
-                double score = wordVectorConstructor.getSimilarity(s1, s2);
+                double score = sentenceVectorsBasedSimilarity.getSimilarity(s1, s2);
                 System.out.print(score + "\t");
                 result.append(score).append("\t");
             } catch (Exception e) {
