@@ -118,7 +118,7 @@ public class LinearRegressionMethod implements SimilarityMeasure {
 
         BufferedReader br = null;
         try {
-            br = new BufferedReader(new FileReader(Resources.getResource("arffModels/rawData_biomedical.arff").getFile()));
+            br = new BufferedReader(new FileReader(Resources.getResource("classifierModels/rawData_biomedical.arff").getFile()));
             Instances trainData = new Instances(br);
             trainData.setClassIndex(trainData.numAttributes() - 1);
             br.close();

@@ -484,8 +484,8 @@ public class CombinedOntologyMethod implements SimilarityMeasure{
 
     public double getSimilarity(String sentence1, String sentence2) throws SLIB_Exception, IOException {
         //Sentence-level combined ontology based similarity
-         double score_1 = getSimilarityForWordnet(s1, s2);
-         double score2 =  getSimilarityForUMLS(s1,s2);
+         double score_1 = getSimilarityForWordnet(sentence1, sentence2);
+         double score2 =  getSimilarityForUMLS(sentence1,sentence2);
                 
          double similarityScore = (score2+score_1)/2;
    
