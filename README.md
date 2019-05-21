@@ -33,26 +33,31 @@ The following are usage examples of different methods provided by BIOSSES for me
 
  ### Ontology-based Semantic Similarity Metrics
 
- #### CombinedOntologyMethod semanticSimilarity = new CombinedOntologyMethod();
+ `CombinedOntologyMethod semanticSimilarity = new CombinedOntologyMethod();`
  
- #### similarityScore = semanticSimilarity.getSimilarityForWordnet(sentence1, sentence2);
- #### similarityScore = semanticSimilarity.getSimilarityForUMLS(sentence1, sentence2);
- #### similarityScore = semanticSimilarity.getSimilarity(sentence1, sentence2);
+ `similarityScore = semanticSimilarity.getSimilarityForWordnet(sentence1, sentence2);`
+ 
+ `similarityScore = semanticSimilarity.getSimilarityForUMLS(sentence1, sentence2);`
+ 
+ `similarityScore = semanticSimilarity.getSimilarity(sentence1, sentence2);`
  
  ### String Similarity Metrics
  
- #### StringMetric metric = StringMetrics.qGramsDistance();
- #### similarityScore = metric.compare(sentence1, sentence2);
+ `StringMetric metric = StringMetrics.qGramsDistance();`
+ 
+ `similarityScore = metric.compare(sentence1, sentence2);`
 
  ### Paragraph Vector Method 
  
- #### SentenceVectorsBasedSimilarity sentenceVectorsBasedSimilarity = new SentenceVectorsBasedSimilarity();
- ##### similarityScore = sentenceVectorsBasedSimilarity.getSimilarity(preprocessedS1, preprocessedS2);
+ `SentenceVectorsBasedSimilarity sentenceVectorsBasedSimilarity = new SentenceVectorsBasedSimilarity();`
+ 
+ `similarityScore = sentenceVectorsBasedSimilarity.getSimilarity(preprocessedS1, preprocessedS2);`
 
  ### Supervised Semantic Similarity Method
  
- #### LinearRegressionMethod linearRegressionMethod = new LinearRegressionMethod();
- #### similarityScore = linearRegressionMethod.getSimilarity(sentence1, sentence2);
+ `LinearRegressionMethod linearRegressionMethod = new LinearRegressionMethod();`
+ 
+ `similarityScore = linearRegressionMethod.getSimilarity(sentence1, sentence2);`
 
 
 sentence1 and sentence2 are the <String> parameters to be compared. 
