@@ -1,6 +1,6 @@
 # BIOSSES
 
-BioSSES computes similarity of biomedical sentences by utilizing WordNet as the general domain  ontology and UMLS as the biomedical domain specific ontology.
+BioSSES computes similarity of biomedical sentences by utilizing WordNet as the general domain ontology and UMLS as the biomedical domain specific ontology.
 
 We allow you to compute sentence similarity with the following methods:
 
